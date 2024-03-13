@@ -1,6 +1,6 @@
 # WRITING-SUPPORT
 
- 👉🏻 Writing Support - University of Windsor
+ 👍🏻 Writing Support - University of Windsor
 
  >**Grateful for Jason Horn's invaluable support with academic writing—highly recommend reaching out to him for expert guidance!**
 
