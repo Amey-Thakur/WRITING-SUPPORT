@@ -162,7 +162,7 @@ Special thanks to **Jason Horn** for his invaluable support with academic writin
 
   <br>
 
-  🤝🏻 [International Student Centre](https://github.com/Amey-Thakur/INTERNATIONAL-STUDENT-CENTRE) &nbsp;·&nbsp; 👍🏻 [Engineering International Student Advising](https://github.com/Amey-Thakur/ENGINEERING-INTERNATIONAL-STUDENT-ADVISING)
+  🌐 [International Student Centre](https://github.com/Amey-Thakur/INTERNATIONAL-STUDENT-CENTRE) &nbsp;·&nbsp; 🤝🏻 [Engineering International Student Advising](https://github.com/Amey-Thakur/ENGINEERING-INTERNATIONAL-STUDENT-ADVISING)
 
 </div>
 
