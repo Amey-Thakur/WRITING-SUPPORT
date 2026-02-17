@@ -68,12 +68,12 @@ A structured inventory of essential support modules categorized by functional do
 | # | Archival Resource | Category | Description |
 |:-:|:---|:---:|:---|
 | 1 | [Academic Integrity and Plagiarism Avoidance](Resources/Academic%20Integrity%20and%20Plagiarism%20Avoidance%20WSD.pptx) | **Ethics** | Core presentation on maintaining academic honesty and integrity. |
-| 2 | [APA 7th Edition Essentials](Resources/csfiles/home_dir/orgs/021115/APA%20Essentials%20%207th%20Ed(4)(1).pptx) | **APA** | Comprehensive guide to the APA 7th Edition citation standards. |
+| 2 | [APA 7th Edition Essentials](Resources/csfiles/home_dir/orgs/021115/APA%20Essentials%207th%20Ed(4)(1).pptx) | **APA** | Comprehensive guide to the APA 7th Edition citation standards. |
 | 3 | [MLA Workshop](Resources/csfiles/home_dir/orgs/021115/MLA%20Workshop%20Brightspace.pptx) | **MLA** | Pedagogy on MLA citation and formatting for humanities scholarship. |
 | 4 | [Chicago Style Workshop](Resources/csfiles/home_dir/orgs/021115/Chicago%20Style%20Workshop(2).pptx) | **Chicago** | Advanced guide to Chicago Manual of Style documentation. |
-| 5 | [IEEE Computer Science](Resources/csfiles/home_dir/orgs/021115/IEEE%20%20Computer%20Science%20Banana.pptx) | **IEEE** | Engineering-specific citation guides for technical communication. |
+| 5 | [IEEE Computer Science](Resources/csfiles/home_dir/orgs/021115/IEEE%20Computer%20Science%20Banana.pptx) | **IEEE** | Engineering-specific citation guides for technical communication. |
 | 6 | [Essay Blueprint](Resources/csfiles/home_dir/orgs/021115/Essay%20Blueprint%20-%20Brightspace.pptx) | **Structure** | Foundation slides for constructing professional academic essays. |
-| 7 | [Grammar - Tenses](Resources/csfiles/home_dir/orgs/021115/Grammar%20-Tenses%20Summer%202018.pptx) | **Grammar** | Specialized workshop focusing on linguistic precision and verb tenses. |
+| 7 | [Grammar - Tenses](Resources/csfiles/home_dir/orgs/021115/Grammar%20-%20Tenses%20Summer%202018.pptx) | **Grammar** | Specialized workshop focusing on linguistic precision and verb tenses. |
 | 8 | [Complete Table of Contents](Resources/Table%20of%20Contents.html) | **Directory** | Full archival index of all writing resources available in this hub. |
 
 ---
@@ -86,7 +86,7 @@ Multimedia pedagogical resources designed to provide deep-dive instruction on sp
 
 | # | Tutorial Resource | Domain | Description |
 |:-:|:---|:---:|:---|
-| 1 | [Academic Integrity Basics](Video%20Tutorials/Academic%20Integrity,%20Citing,%20and%20Referencing/Academic%20Integrity.html) | **Ethics** | Video guide on the importance of original scholarship and citation. |
+| 1 | [Academic Integrity Basics](Video%20Tutorials/Academic%20Integrity%20Citing%20and%20Referencing/Academic%20Integrity.html) | **Ethics** | Video guide on the importance of original scholarship and citation. |
 | 2 | [Anatomy of an Introduction](Video%20Tutorials/Essay%20Structure/The%20Anatomy%20of%20an%20Introduction.html) | **Structure** | Structural breakdown of effective academic essay introductions. |
 | 3 | [Effective Thesis Statements](Video%20Tutorials/Essay%20Structure/How%20to%20Write%20an%20Effective%20Thesis%20Statement.html) | **Logic** | Guidance on crafting strong, argumentative thesis statements. |
 | 4 | [How to Write an Engaging Hook](Video%20Tutorials/Essay%20Structure/How%20to%20Write%20an%20Engaging%20Hook.html) | **Engagement** | Strategies for capturing reader attention through scholarly hooks. |
