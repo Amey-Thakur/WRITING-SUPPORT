@@ -63,25 +63,84 @@ This repository represents a curated collection of workshop slides, pedagogical 
 
 A structured inventory of essential support modules categorized by functional domain to facilitate rapid navigation and information retrieval.
 
-### Writing Resources
+### Writing Foundations
 
-| # | Archival Resource | Domain | Format | Description |
-|:-:|:---|:---:|:---:|:---|
-| 1 | [Academic Integrity & Plagiarism Avoidance](Resources/Writing_Foundations/Academic%20Integrity%20and%20Plagiarism%20Avoidance%20WSD.pptx) | **Ethics** | [PPTX](Resources/Writing_Foundations/Academic%20Integrity%20and%20Plagiarism%20Avoidance%20WSD.pptx) · [PDF](Resources/Writing_Foundations/Academic%20Integrity%20and%20Plagiarism%20Avoidance%20WSD.pdf) | Core module on maintaining academic honesty and ethical research. |
-| 2 | [Understanding Pronouns](Resources/Grammar_and_Style/Understanding%20Pronouns.pptx) | **Grammar** | [PPTX](Resources/Grammar_and_Style/Understanding%20Pronouns.pptx) · [PDF](Resources/Grammar_and_Style/Understanding%20Pronouns.pdf) | Specialized guide focusing on linguistic precision and pronoun use. |
-| 3 | [Essay Blueprint](Resources/Writing_Foundations/Essay%20Blueprint%20-%20Brightspace.pptx) | **Structure** | [PPTX](Resources/Writing_Foundations/Essay%20Blueprint%20-%20Brightspace.pptx) | Foundation slides for constructing professional academic essays. |
-| 4 | [Grammar - Tenses](Resources/Grammar_and_Style/Grammar%20-%20Tenses%20Summer%202018.pptx) | **Grammar** | [PPTX](Resources/Grammar_and_Style/Grammar%20-%20Tenses%20Summer%202018.pptx) | Deep-dive workshop on verb tenses and grammatical accuracy. |
-| 5 | [Editing for Conciseness](Resources/Grammar_and_Style/Editing%20for%20Conciseness%20Brightspace.pptx) | **Style** | [PPTX](Resources/Grammar_and_Style/Editing%20for%20Conciseness%20Brightspace.pptx) | Strategies for refining academic prose and achieving brevity. |
-
-### Citation Resources
-
-| # | Archival Resource | Category | Description |
+| # | Archival Resource | Format | Link |
 |:-:|:---|:---:|:---|
-| 1 | [APA 7th Edition Essentials](Resources/Citation_Standards/APA%20Essentials%207th%20Ed(4)(1).pptx) | **APA** | Comprehensive guide to the APA 7th Edition citation standards. |
-| 2 | [MLA Workshop](Resources/Citation_Standards/MLA%20Workshop%20Brightspace.pptx) | **MLA** | Pedagogy on MLA citation and formatting for humanities scholarship. |
-| 3 | [Chicago Style Workshop](Resources/Citation_Standards/Chicago%20Style%20Workshop(2).pptx) | **Chicago** | Advanced guide to Chicago Manual of Style documentation. |
-| 4 | [IEEE Computer Science](Resources/Citation_Standards/IEEE%20Computer%20Science%20Banana.pptx) | **IEEE** | Engineering-specific citation guides for technical communication. |
-| 5 | [Complete Table of Contents](Resources/Table%20of%20Contents.html) | **Directory** | Full archival index of all writing resources available in this hub. |
+| 1 | Abstracts | PDF | [View](Resources/Writing_Foundations/Abstracts%20-%20Brightspace.pdf) |
+| 2 | Abstracts | PPTX | [View](Resources/Writing_Foundations/Abstracts%20-%20Brightspace.pptx) |
+| 3 | Academic Integrity & Plagiarism Avoidance | PDF | [View](Resources/Writing_Foundations/Academic%20Integrity%20and%20Plagiarism%20Avoidance%20WSD.pdf) |
+| 4 | Academic Integrity & Plagiarism Avoidance | PPTX | [View](Resources/Writing_Foundations/Academic%20Integrity%20and%20Plagiarism%20Avoidance%20WSD.pptx) |
+| 5 | Essay Blueprint | PDF | [View](Resources/Writing_Foundations/Essay%20Blueprint%20-%20Brightspace.pdf) |
+| 6 | Essay Blueprint | PPTX | [View](Resources/Writing_Foundations/Essay%20Blueprint%20-%20Brightspace.pptx) |
+| 7 | Graduate Applications | PDF | [View](Resources/Writing_Foundations/Graduate%20Applications%20Brightspace.pdf) |
+| 8 | Graduate Applications | PPTX | [View](Resources/Writing_Foundations/Graduate%20Applications%20Brightspace.pptx) |
+| 9 | Lit Review vs. Annotated Bibliography | PDF | [View](Resources/Writing_Foundations/Lit%20Review%20vs.%20Annotated%20Bibliography%20-%20Brightspace.pdf) |
+| 10 | Lit Review vs. Annotated Bibliography | PPTX | [View](Resources/Writing_Foundations/Lit%20Review%20vs.%20Annotated%20Bibliography%20-%20Brightspace.pptx) |
+| 11 | Pre-Writing Workshop | PDF | [View](Resources/Writing_Foundations/Pre-Writing%20Workshop%20Brightspace.pdf) |
+| 12 | Pre-Writing Workshop | PPTX | [View](Resources/Writing_Foundations/Pre-Writing%20Workshop%20Brightspace.pptx) |
+| 13 | Proposal Writing | PDF | [View](Resources/Writing_Foundations/Proposal%20Writing.pdf) |
+| 14 | Proposal Writing | PPTX | [View](Resources/Writing_Foundations/Proposal%20Writing.pptx) |
+| 15 | Science Writing ACS | PDF | [View](Resources/Writing_Foundations/Science%20Writing%20ACS.pdf) |
+| 16 | Science Writing | PPTX | [View](Resources/Writing_Foundations/Science%20Writing.pptx) |
+| 17 | Sentence Structure Workshop | PDF | [View](Resources/Writing_Foundations/Sentence%20Structure%20Workshop%20Brightspace.pdf) |
+| 18 | Sentence Structure Workshop | PPTX | [View](Resources/Writing_Foundations/Sentence%20Structure%20Workshop%20Brightspace.pptx) |
+
+### Grammar and Style
+
+| # | Archival Resource | Format | Link |
+|:-:|:---|:---:|:---|
+| 1 | Citing & Referencing | PDF | [View](Resources/Grammar_and_Style/Citing%20Referencing%20Brightspace.pdf) |
+| 2 | Citing & Referencing | PPTX | [View](Resources/Grammar_and_Style/Citing%20Referencing%20Brightspace.pptx) |
+| 3 | Editing for Conciseness | PDF | [View](Resources/Grammar_and_Style/Editing%20for%20Conciseness%20Brightspace.pdf) |
+| 4 | Editing for Conciseness | PPTX | [View](Resources/Grammar_and_Style/Editing%20for%20Conciseness%20Brightspace.pptx) |
+| 5 | Grammar - Tenses (Summer 2018) | PPTX | [View](Resources/Grammar_and_Style/Grammar%20-%20Tenses%20Summer%202018.pptx) |
+| 6 | Inclusive Language | PDF | [View](Resources/Grammar_and_Style/Inclusive-Language%20Brightspace.pdf) |
+| 7 | Inclusive Language (Aug 2022) | PPTX | [View](Resources/Grammar_and_Style/Inclusive-Language-August-2022%20Brightspace.pptx) |
+| 8 | Parts of Speech | PDF | [View](Resources/Grammar_and_Style/Parts%20of%20Speech.pdf) |
+| 9 | Parts of Speech | PPTX | [View](Resources/Grammar_and_Style/Parts%20of%20speech.pptx) |
+| 10 | Punctuation Primer | PPTX | [View](Resources/Grammar_and_Style/Punctuation%20Primer(5).pptx) |
+| 11 | Punctuation | PDF | [View](Resources/Grammar_and_Style/Punctuation.pdf) |
+| 12 | Tenses | PDF | [View](Resources/Grammar_and_Style/Tenses.pdf) |
+| 13 | Transitions | PDF | [View](Resources/Grammar_and_Style/Transitions.pdf) |
+| 14 | Transitions | PPTX | [View](Resources/Grammar_and_Style/TRANSITIONS.pptx) |
+| 15 | Understanding Pronouns | PDF | [View](Resources/Grammar_and_Style/Understanding%20Pronouns.pdf) |
+| 16 | Understanding Pronouns | PPTX | [View](Resources/Grammar_and_Style/Understanding%20Pronouns.pptx) |
+
+### Citation Standards
+
+| # | Archival Resource | Format | Link |
+|:-:|:---|:---:|:---|
+| 1 | APA 6 Workshop | PPTX | [View](Resources/Citation_Standards/APA%206%20Workshop%20Brightspace.pptx) |
+| 2 | APA 6 vs. 7 Quick Guide | PDF | [View](Resources/Citation_Standards/APA%206%20vs.%207%20quick%20guide%20(2).pdf) |
+| 3 | APA 6th vs. 7th Edition | PDF | [View](Resources/Citation_Standards/APA%206th%20vs.%207th%20edition(1).pdf) |
+| 4 | APA 7th Edition | PDF | [View](Resources/Citation_Standards/APA%207th%20edition.pdf) |
+| 5 | APA 7th Edition Cheat Sheet | PDF | [View](Resources/Citation_Standards/APA%207th%20Edition%20Cheat%20Sheet.pdf) |
+| 6 | APA 7th Edition Cheat Sheet | PNG | [View](Resources/Citation_Standards/APA%207th%20Edition%20Cheat%20Sheet.png) |
+| 7 | APA 7th Ed. Sample Paper (1) | DOCX | [View](Resources/Citation_Standards/APA%207th%20Edition%20Sample%20Student%20Paper%20Format%20(1).docx) |
+| 8 | APA 7th Ed. Sample Paper (2) | DOCX | [View](Resources/Citation_Standards/APA%207th%20Edition%20Sample%20Student%20Paper%20Format(1).docx) |
+| 9 | APA 7th Ed. Sample Paper | DOCX | [View](Resources/Citation_Standards/APA%207th%20Edition%20Sample%20Student%20Paper%20Format.docx) |
+| 10 | APA Essentials 7th Ed | PPTX | [View](Resources/Citation_Standards/APA%20Essentials%207th%20Ed(4)(1).pptx) |
+| 11 | APA Format | DOCX | [View](Resources/Citation_Standards/APA%20Format(5).docx) |
+| 12 | Chicago Style (2) | DOCX | [View](Resources/Citation_Standards/Chicago%20Style(2).docx) |
+| 13 | Chicago Style | PDF | [View](Resources/Citation_Standards/Chicago%20Style.pdf) |
+| 14 | Chicago Style Workshop | PPTX | [View](Resources/Citation_Standards/Chicago%20Style%20Workshop(2).pptx) |
+| 15 | IEEE Computer Science | PPTX | [View](Resources/Citation_Standards/IEEE%20Computer%20Science%20Banana.pptx) |
+| 16 | IEEE Template 1 | DOC | [View](Resources/Citation_Standards/IEEE%20Template%201.doc) |
+| 17 | IEEE Template | DOCX | [View](Resources/Citation_Standards/IEEE%20Template.docx) |
+| 18 | IEEE | PDF | [View](Resources/Citation_Standards/IEEE.pdf) |
+| 19 | MLA Workshop | PDF | [View](Resources/Citation_Standards/MLA%20Workshop%20Brightspace.pdf) |
+| 20 | MLA Workshop | PPTX | [View](Resources/Citation_Standards/MLA%20Workshop%20Brightspace.pptx) |
+
+### Submission Samples
+
+| # | Archival Resource | Format | Link |
+|:-:|:---|:---:|:---|
+| 1 | Graduate Studies Submission Sample | DOCX | [View](Resources/Submission_Samples/Graduate%20Studies%20Submission%20Sample%20Paper.docx) |
+| 2 | MLA 8th Edition Sample Paper | DOCX | [View](Resources/Submission_Samples/MLA%208th%20Edition%20Sample%20Paper.docx) |
+| 3 | Examples of Transitions | DOC | [View](Resources/Submission_Samples/Essay_Writing_Help/Examples_of_Transitions.doc) |
+| 4 | Sample Essay (No Corrections) | PDF | [View](Resources/Submission_Samples/Essay_Writing_Help/Sample_Essay_w_Common_Errors__No_Corrections.pdf) |
+| 5 | Sample Essay (With Corrections) | PDF | [View](Resources/Submission_Samples/Essay_Writing_Help/Sample_Essay_w_Corrections.pdf) |
 
 ---
 
