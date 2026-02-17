@@ -63,18 +63,25 @@ This repository represents a curated collection of workshop slides, pedagogical 
 
 A structured inventory of essential support modules categorized by functional domain to facilitate rapid navigation and information retrieval.
 
-### Writing & Citation Resources
+### Writing Resources
+
+| # | Archival Resource | Domain | Format | Description |
+|:-:|:---|:---:|:---:|:---|
+| 1 | [Academic Integrity & Plagiarism Avoidance](Resources/Academic%20Integrity%20and%20Plagiarism%20Avoidance%20WSD.pptx) | **Ethics** | [PPTX](Resources/Academic%20Integrity%20and%20Plagiarism%20Avoidance%20WSD.pptx) · [PDF](Resources/Academic%20Integrity%20and%20Plagiarism%20Avoidance%20WSD.pdf) | Core module on maintaining academic honesty and ethical research. |
+| 2 | [Understanding Pronouns](Resources/Understanding%20Pronouns.pptx) | **Grammar** | [PPTX](Resources/Understanding%20Pronouns.pptx) · [PDF](Resources/Understanding%20Pronouns.pdf) | Specialized guide focusing on linguistic precision and pronoun use. |
+| 3 | [Essay Blueprint](Resources/csfiles/home_dir/orgs/021115/Essay%20Blueprint%20-%20Brightspace.pptx) | **Structure** | [PPTX](Resources/csfiles/home_dir/orgs/021115/Essay%20Blueprint%20-%20Brightspace.pptx) | Foundation slides for constructing professional academic essays. |
+| 4 | [Grammar - Tenses](Resources/csfiles/home_dir/orgs/021115/Grammar%20-%20Tenses%20Summer%202018.pptx) | **Grammar** | [PPTX](Resources/csfiles/home_dir/orgs/021115/Grammar%20-%20Tenses%20Summer%202018.pptx) | Deep-dive workshop on verb tenses and grammatical accuracy. |
+| 5 | [Editing for Conciseness](Resources/csfiles/home_dir/orgs/021115/Editing%20for%20Conciseness%20Brightspace.pptx) | **Style** | [PPTX](Resources/csfiles/home_dir/orgs/021115/Editing%20for%20Conciseness%20Brightspace.pptx) | Strategies for refining academic prose and achieving brevity. |
+
+### Citation Resources
 
 | # | Archival Resource | Category | Description |
 |:-:|:---|:---:|:---|
-| 1 | [Academic Integrity and Plagiarism Avoidance](Resources/Academic%20Integrity%20and%20Plagiarism%20Avoidance%20WSD.pptx) | **Ethics** | Core presentation on maintaining academic honesty and integrity. |
-| 2 | [APA 7th Edition Essentials](Resources/csfiles/home_dir/orgs/021115/APA%20Essentials%207th%20Ed(4)(1).pptx) | **APA** | Comprehensive guide to the APA 7th Edition citation standards. |
-| 3 | [MLA Workshop](Resources/csfiles/home_dir/orgs/021115/MLA%20Workshop%20Brightspace.pptx) | **MLA** | Pedagogy on MLA citation and formatting for humanities scholarship. |
-| 4 | [Chicago Style Workshop](Resources/csfiles/home_dir/orgs/021115/Chicago%20Style%20Workshop(2).pptx) | **Chicago** | Advanced guide to Chicago Manual of Style documentation. |
-| 5 | [IEEE Computer Science](Resources/csfiles/home_dir/orgs/021115/IEEE%20Computer%20Science%20Banana.pptx) | **IEEE** | Engineering-specific citation guides for technical communication. |
-| 6 | [Essay Blueprint](Resources/csfiles/home_dir/orgs/021115/Essay%20Blueprint%20-%20Brightspace.pptx) | **Structure** | Foundation slides for constructing professional academic essays. |
-| 7 | [Grammar - Tenses](Resources/csfiles/home_dir/orgs/021115/Grammar%20-%20Tenses%20Summer%202018.pptx) | **Grammar** | Specialized workshop focusing on linguistic precision and verb tenses. |
-| 8 | [Complete Table of Contents](Resources/Table%20of%20Contents.html) | **Directory** | Full archival index of all writing resources available in this hub. |
+| 1 | [APA 7th Edition Essentials](Resources/csfiles/home_dir/orgs/021115/APA%20Essentials%207th%20Ed(4)(1).pptx) | **APA** | Comprehensive guide to the APA 7th Edition citation standards. |
+| 2 | [MLA Workshop](Resources/csfiles/home_dir/orgs/021115/MLA%20Workshop%20Brightspace.pptx) | **MLA** | Pedagogy on MLA citation and formatting for humanities scholarship. |
+| 3 | [Chicago Style Workshop](Resources/csfiles/home_dir/orgs/021115/Chicago%20Style%20Workshop(2).pptx) | **Chicago** | Advanced guide to Chicago Manual of Style documentation. |
+| 4 | [IEEE Computer Science](Resources/csfiles/home_dir/orgs/021115/IEEE%20Computer%20Science%20Banana.pptx) | **IEEE** | Engineering-specific citation guides for technical communication. |
+| 5 | [Complete Table of Contents](Resources/Table%20of%20Contents.html) | **Directory** | Full archival index of all writing resources available in this hub. |
 
 ---
 
