@@ -12,7 +12,7 @@ Reports should include sufficient detail to allow the issue to be clearly unders
 Please do not publicly disclose security-related issues until they have been reviewed. Responsible disclosure helps prevent misuse and supports the academic integrity of this archival work.
 
 ## Limitations
-The maintainer provides no guarantees regarding security, correctness, or suitability for any specific purpose. Users are responsible for evaluating and applying the material appropriately within their own academic context.
+The maintainer provides no guarantees regarding security, correctness, or suitability for any specific purpose. Users are responsible for evaluating and applying the material appropriately.
 
 ## Acknowledgement
 Responsible reporting and constructive feedback help maintain the quality, reliability, and academic value of this repository.
