@@ -1,0 +1,16 @@
+# WRITING-SUPPORT - Scholarly Writing Resources Repository
+# Specialized .gitignore for writing support & academic integrity resources
+
+# OS-generated files
+[Tt]humbs.db
+[Dd]esktop.ini
+.DS_Store
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Temporary files (Office lock files)
+*.tmp
+*.bak
+~$*

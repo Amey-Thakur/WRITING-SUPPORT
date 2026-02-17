@@ -1,0 +1,20 @@
+# WRITING-SUPPORT - Scholarly Writing Resources Repository
+# Professional .gitattributes for writing support & academic integrity resources
+
+# Auto-normalize
+* text=auto
+
+# Text files
+*.md text eol=lf
+*.html text eol=lf
+*.txt text eol=lf
+
+# Binary files (Office & Media Integrity)
+*.pdf binary
+*.doc binary
+*.docx binary
+*.pptx binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
