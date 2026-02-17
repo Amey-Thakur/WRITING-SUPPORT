@@ -10,7 +10,7 @@
   # Writing Support
 
   <!-- Subtitle -->
-  ### University of Windsor · Writing Support Hub & Academic Integrity
+  ### University of Windsor · Writing Support Hub & Academic Integrity Archive
 
   <!-- Badges -->
   [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
