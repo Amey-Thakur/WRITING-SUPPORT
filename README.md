@@ -117,13 +117,13 @@ A structured inventory of essential support modules categorized by functional do
 
 ### Submission Samples
 
-| # | Topic | Document | PDF | PPT |
+| # | Topic | PDF | PPT | Document |
 |:-:|:---|:---:|:---:|:---:|
-| 1 | Graduate Studies Submission Sample | [DOCX](Resources/Submission_Samples/Graduate%20Studies%20Submission%20Sample%20Paper.docx) | — | — |
-| 2 | MLA 8th Edition Sample Paper | [DOCX](Resources/Submission_Samples/MLA%208th%20Edition%20Sample%20Paper.docx) | — | — |
-| 3 | Examples of Transitions | [DOC](Resources/Submission_Samples/Essay_Writing_Help/Examples_of_Transitions.doc) | — | — |
-| 4 | Sample Essay (No Corrections) | — | [View](Resources/Submission_Samples/Essay_Writing_Help/Sample_Essay_w_Common_Errors__No_Corrections.pdf) | — |
-| 5 | Sample Essay (With Corrections) | — | [View](Resources/Submission_Samples/Essay_Writing_Help/Sample_Essay_w_Corrections.pdf) | — |
+| 1 | Graduate Studies Submission Sample | — | — | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Submission_Samples/Graduate%20Studies%20Submission%20Sample%20Paper.docx) |
+| 2 | MLA 8th Edition Sample Paper | — | — | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Submission_Samples/MLA%208th%20Edition%20Sample%20Paper.docx) |
+| 3 | Examples of Transitions | [View](Resources/Submission_Samples/Essay_Writing_Help/Examples_of_Transitions.pdf) | — | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Submission_Samples/Essay_Writing_Help/Examples_of_Transitions.doc) |
+| 4 | Sample Essay (No Corrections) | [View](Resources/Submission_Samples/Essay_Writing_Help/Sample_Essay_w_Common_Errors__No_Corrections.pdf) | — | — |
+| 5 | Sample Essay (With Corrections) | [View](Resources/Submission_Samples/Essay_Writing_Help/Sample_Essay_w_Corrections.pdf) | — | — |
 
 ---
 
