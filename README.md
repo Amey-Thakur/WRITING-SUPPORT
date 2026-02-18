@@ -67,7 +67,7 @@ A structured inventory of essential support modules categorized by functional do
 
 | # | Topic | PDF | PPT |
 |:-:|:---|:---:|:---:|
-| 1 | Abstracts | [View](Resources/Writing_Foundations/Abstracts%20-%20Brightspace.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Writing_Foundations/Abstracts%20-%20Brightspace.pptx) |
+| 1 | Abstract Essentials | [View](Resources/Writing_Foundations/Abstract%20Essentials.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Writing_Foundations/Abstract%20Essentials.pptx) |
 | 2 | Academic Integrity & Plagiarism Avoidance | [View](Resources/Writing_Foundations/Academic%20Integrity%20and%20Plagiarism%20Avoidance%20WSD.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Writing_Foundations/Academic%20Integrity%20and%20Plagiarism%20Avoidance%20WSD.pptx) |
 | 3 | Essay Blueprint | [View](Resources/Writing_Foundations/Essay%20Blueprint%20-%20Brightspace.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Writing_Foundations/Essay%20Blueprint%20-%20Brightspace.pptx) |
 | 4 | Graduate Applications | [View](Resources/Writing_Foundations/Graduate%20Applications%20Brightspace.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Writing_Foundations/Graduate%20Applications%20Brightspace.pptx) |
