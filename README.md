@@ -167,16 +167,16 @@ Multimedia pedagogical resources designed to provide deep-dive instruction on sp
 
 ## Usage Guidelines
 
-This repository is shared to support the student community and university stakeholders.
+This repository is openly shared to support scholarly excellence and academic integrity across the university community.
 
-**For Students**  
-Use these resources as a reference guide for navigating academic milestones, mastering citation standards, and enhancing scholarly writing skills.
+**For Students**
+Use these resources as a comprehensive guide for mastering citation styles, structuring academic papers, and understanding plagiarism avoidance. The repository contains detailed templates and tutorials to facilitate independent learning.
 
-**For Writing Advisors**  
-These archived materials may serve as reference points for historical pedagogical content and departmental resource structuring.
+**For Educators**
+These materials may serve as supplementary teaching aids, workshop references, or examples of standard academic formatting. Attribution is appreciated when utilizing content for instructional purposes.
 
-**For Departmental Partners**  
-The curated records of writing workshops and citation guides offer historical insights for developing faculty-specific writing support programs.
+**For Researchers**
+The curated citation guides and writing foundations provide a reliable reference for maintaining high standards of scholarly communication and ethical research practices.
 
 ---
 
