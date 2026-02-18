@@ -75,7 +75,7 @@ A structured inventory of essential support modules categorized by functional do
 | 6 | Pre-Writing Workshop | [View](Resources/Writing_Foundations/Pre-Writing%20Workshop%20Brightspace.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Writing_Foundations/Pre-Writing%20Workshop%20Brightspace.pptx) |
 | 7 | Proposal Writing Workshop | [View](Resources/Writing_Foundations/Proposal%20Writing%20Workshop%20Brightspace.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Writing_Foundations/Proposal%20Writing%20Workshop%20Brightspace.pptx) |
 | 8 | Science Writing | [View](Resources/Writing_Foundations/Science%20Writing.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Writing_Foundations/Science%20Writing.pptx) |
-| 9 | Science Writing (ACS Variant) | [View](Resources/Writing_Foundations/Science%20Writing%20ACS.pdf) | — |
+| 9 | Science Writing & ACS Style | [View](Resources/Writing_Foundations/Science%20Writing%20%26%20ACS%20Style.pdf) | — |
 | 10 | Sentence Structure Workshop | [View](Resources/Writing_Foundations/Sentence%20Structure%20Workshop%20Brightspace.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Writing_Foundations/Sentence%20Structure%20Workshop%20Brightspace.pptx) |
 
 ### Grammar and Style
