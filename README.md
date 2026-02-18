@@ -99,7 +99,7 @@ A structured inventory of essential support modules categorized by functional do
 | # | Topic | Document | PDF | PPT |
 |:-:|:---|:---:|:---:|:---:|
 | 1 | APA 6th Edition Citation Workshop | — | [View](Resources/Citation_Standards/APA%206th%20Edition%20Citation%20Workshop.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/APA%206th%20Edition%20Citation%20Workshop.pptx) |
-| 2 | Quick Guide: APA 6th vs. 7th Edition Updates | — | [View](Resources/Citation_Standards/Quick%20Guide%20-%20APA%206th%20vs%207th%20Edition%20Updates.pdf) | — |
+| 2 | Quick Guide: APA 6th vs. 7th Edition Updates | — | [View](Resources/Citation_Standards/APA%206th%20vs%207th%20Edition%20Updates%20-%20Quick%20Guide.pdf) | — |
 | 3 | APA 6th vs. 7th Edition Updates | — | [View](Resources/Citation_Standards/APA%206th%20vs%207th%20Edition%20Updates.pdf) | — |
 | 4 | APA 7th Edition | — | [View](Resources/Citation_Standards/APA%207th%20edition.pdf) | — |
 | 5 | APA 7th Edition Cheat Sheet | [PNG](Resources/Citation_Standards/APA%207th%20Edition%20Cheat%20Sheet.png) | [View](Resources/Citation_Standards/APA%207th%20Edition%20Cheat%20Sheet.pdf) | — |
