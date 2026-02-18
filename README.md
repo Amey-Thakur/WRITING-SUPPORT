@@ -129,7 +129,7 @@ A structured inventory of essential support modules categorized by functional do
 
 ## Video Tutorials
 
-Multimedia pedagogical resources designed to provide deep-dive instruction on specific academic writing domains.
+A structured collection of multimedia pedagogical resources categorized by specialized domain to facilitate immersive instruction and information synthesis.
 
 ### Academic Integrity & Composition
 
