@@ -96,22 +96,23 @@ A structured inventory of essential support modules categorized by functional do
 
 ### Citation Standards
 
-| # | Topic | Document | PDF | PPT |
+| # | Topic | PDF | PPT | Document |
 |:-:|:---|:---:|:---:|:---:|
-| 1 | APA 6th Edition Citation Workshop | — | [View](Resources/Citation_Standards/APA%206th%20Edition%20Citation%20Workshop.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/APA%206th%20Edition%20Citation%20Workshop.pptx) |
-| 2 | Quick Guide: APA 6th vs. 7th Edition Updates | — | [View](Resources/Citation_Standards/APA%206th%20vs%207th%20Edition%20Updates%20-%20Quick%20Guide.pdf) | — |
-| 3 | APA 6th vs. 7th Edition Updates | — | [View](Resources/Citation_Standards/APA%206th%20vs%207th%20Edition%20Updates.pdf) | — |
-| 4 | APA Citation 7th Edition | — | [View](Resources/Citation_Standards/APA%20Citation%207th%20edition.pdf) | — |
-| 5 | APA 7th Edition Cheat Sheet | [PNG](Resources/Citation_Standards/APA%207th%20Edition%20Cheat%20Sheet.png) | [View](Resources/Citation_Standards/APA%207th%20Edition%20Cheat%20Sheet.pdf) | — |
-| 6 | APA 7th Edition Essentials | — | [View](Resources/Citation_Standards/APA%20Essentials%207th%20edition.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/APA%20Essentials%207th%20edition.pptx) |
-| 7 | APA Formatting Guide | [DOCX](Resources/Citation_Standards/APA%20Format.docx) | [View](Resources/Citation_Standards/APA%20Format.pdf) | — |
-| 8 | APA 7th Sample Paper | [DOCX](Resources/Citation_Standards/APA%207th%20Edition%20Sample%20Student%20Paper%20Format.docx) | [View](Resources/Citation_Standards/APA%207th%20Edition%20Sample%20Student%20Paper%20Format.pdf) | — |
-| 9 | An Introduction to Citing and Referencing: Chicago Manual Style | [DOCX](Resources/Citation_Standards/An%20Introduction%20to%20Citing%20and%20Referencing%20-%20Chicago%20Manual%20Style.docx) | [View](Resources/Citation_Standards/An%20Introduction%20to%20Citing%20and%20Referencing%20-%20Chicago%20Manual%20Style.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/An%20Introduction%20to%20Citing%20and%20Referencing%20-%20Chicago%20Manual%20Style.pptx) |
-| 10 | IEEE Citing and Referencing | — | [View](Resources/Citation_Standards/IEEE%20Citing%20and%20Referencing.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/IEEE%20Citing%20and%20Referencing.pptx) |
-| 11 | IEEE Citing and Referencing Brightspace | — | [View](Resources/Citation_Standards/IEEE%20Citing%20and%20Referencing%20Brightspace.pdf) | — |
-| 12 | IEEE Format Template | [DOCX](Resources/Citation_Standards/IEEE%20Template.docx) | [View](Resources/Citation_Standards/IEEE%20Template.pdf) | — |
-| 13 | IEEE Format Template | [DOC](Resources/Citation_Standards/IEEE%20Format%20Template.doc) | [View](Resources/Citation_Standards/IEEE%20Format%20Template.pdf) | — |
-| 14 | MLA Citation Workshop | — | [View](Resources/Citation_Standards/MLA%20Citation%20Workshop.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/MLA%20Citation%20Workshop.pptx) |
+| 1 | APA 6th Edition Citation Workshop | [View](Resources/Citation_Standards/APA%206th%20Edition%20Citation%20Workshop.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/APA%206th%20Edition%20Citation%20Workshop.pptx) | — |
+| 2 | Quick Guide: APA 6th vs. 7th Edition Updates | [View](Resources/Citation_Standards/APA%206th%20vs%207th%20Edition%20Updates%20-%20Quick%20Guide.pdf) | — | — |
+| 3 | APA 6th vs. 7th Edition Updates | [View](Resources/Citation_Standards/APA%206th%20vs%207th%20Edition%20Updates.pdf) | — | — |
+| 4 | APA Citation 7th Edition | [View](Resources/Citation_Standards/APA%20Citation%207th%20edition.pdf) | — | — |
+| 5 | APA 7th Edition Cheat Sheet | [View](Resources/Citation_Standards/APA%207th%20Edition%20Cheat%20Sheet.pdf) | — | [PNG](Resources/Citation_Standards/APA%207th%20Edition%20Cheat%20Sheet.png) |
+| 6 | APA 7th Edition Essentials | [View](Resources/Citation_Standards/APA%20Essentials%207th%20edition.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/APA%20Essentials%207th%20edition.pptx) | — |
+| 7 | APA Formatting Guide | [View](Resources/Citation_Standards/APA%20Format.pdf) | — | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/APA%20Format.docx) |
+| 8 | APA 7th Sample Paper | [View](Resources/Citation_Standards/APA%207th%20Edition%20Sample%20Student%20Paper%20Format.pdf) | — | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/APA%207th%20Edition%20Sample%20Student%20Paper%20Format.docx) |
+| 9 | An Introduction to Citing and Referencing: Chicago Manual Style | [View](Resources/Citation_Standards/An%20Introduction%20to%20Citing%20and%20Referencing%20-%20Chicago%20Manual%20Style.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/An%20Introduction%20to%20Citing%20and%20Referencing%20-%20Chicago%20Manual%20Style.pptx) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/An%20Introduction%20to%20Citing%20and%20Referencing%20-%20Chicago%20Manual%20Style.docx) |
+| 10 | IEEE Citing and Referencing | [View](Resources/Citation_Standards/IEEE%20Citing%20and%20Referencing.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/IEEE%20Citing%20and%20Referencing.pptx) | — |
+| 11 | IEEE Citing and Referencing Brightspace | [View](Resources/Citation_Standards/IEEE%20Citing%20and%20Referencing%20Brightspace.pdf) | — | — |
+| 12 | IEEE Format Template | [View](Resources/Citation_Standards/IEEE%20Template.pdf) | — | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/IEEE%20Template.docx) |
+| 13 | IEEE Format Template | [View](Resources/Citation_Standards/IEEE%20Format%20Template.pdf) | — | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/IEEE%20Format%20Template.doc) |
+| 14 | MLA Citation Workshop | [View](Resources/Citation_Standards/MLA%20Citation%20Workshop.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/MLA%20Citation%20Workshop.pptx) | — |
+
 
 
 ### Submission Samples
