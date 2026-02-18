@@ -66,7 +66,7 @@ A structured inventory of essential support modules categorized by functional do
 ### Writing Foundations
 
 | # | Topic | PDF | PPT |
-|:-:|:---|:---:|:---|
+|:-:|:---|:---:|:---:|
 | 1 | Abstracts | [View](Resources/Writing_Foundations/Abstracts%20-%20Brightspace.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Writing_Foundations/Abstracts%20-%20Brightspace.pptx) |
 | 2 | Academic Integrity & Plagiarism Avoidance | [View](Resources/Writing_Foundations/Academic%20Integrity%20and%20Plagiarism%20Avoidance%20WSD.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Writing_Foundations/Academic%20Integrity%20and%20Plagiarism%20Avoidance%20WSD.pptx) |
 | 3 | Essay Blueprint | [View](Resources/Writing_Foundations/Essay%20Blueprint%20-%20Brightspace.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Writing_Foundations/Essay%20Blueprint%20-%20Brightspace.pptx) |
@@ -80,7 +80,7 @@ A structured inventory of essential support modules categorized by functional do
 ### Grammar and Style
 
 | # | Topic | PDF | PPT |
-|:-:|:---|:---:|:---|
+|:-:|:---|:---:|:---:|
 | 1 | Citing & Referencing | [View](Resources/Grammar_and_Style/Citing%20Referencing%20Brightspace.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Citing%20Referencing%20Brightspace.pptx) |
 | 2 | Editing for Conciseness | [View](Resources/Grammar_and_Style/Editing%20for%20Conciseness%20Brightspace.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Editing%20for%20Conciseness%20Brightspace.pptx) |
 | 3 | Grammar - Tenses (Summer 2018) | — | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Grammar%20-%20Tenses%20Summer%202018.pptx) |
@@ -94,7 +94,7 @@ A structured inventory of essential support modules categorized by functional do
 ### Citation Standards
 
 | # | Topic | PDF | PPT |
-|:-:|:---|:---:|:---|
+|:-:|:---|:---:|:---:|
 | 1 | APA 6th Edition | [View](Resources/Citation_Standards/APA%206th%20vs.%207th%20edition(1).pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/APA%206%20Workshop%20Brightspace.pptx) |
 | 2 | APA 7th Edition | [View](Resources/Citation_Standards/APA%207th%20edition.pdf) | — |
 | 3 | APA 7th Edition Cheat Sheet | [View](Resources/Citation_Standards/APA%207th%20Edition%20Cheat%20Sheet.pdf) | — |
