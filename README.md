@@ -131,16 +131,37 @@ A structured inventory of essential support modules categorized by functional do
 
 A structured collection of multimedia pedagogical resources categorized by specialized domain to facilitate immersive instruction and information synthesis.
 
-### Academic Integrity & Composition
+### Academic Integrity & Citation Standards
 
 | # | Tutorial Resource | Domain | Description |
 |:-:|:---|:---:|:---|
 | 1 | [Academic Integrity Basics](Video%20Tutorials/Academic%20Integrity%20Citing%20and%20Referencing/Academic%20Integrity.html) | **Ethics** | Video guide on the importance of original scholarship and citation. |
-| 2 | [Anatomy of an Introduction](Video%20Tutorials/Essay%20Structure/The%20Anatomy%20of%20an%20Introduction.html) | **Structure** | Structural breakdown of effective academic essay introductions. |
-| 3 | [Effective Thesis Statements](Video%20Tutorials/Essay%20Structure/How%20to%20Write%20an%20Effective%20Thesis%20Statement.html) | **Logic** | Guidance on crafting strong, argumentative thesis statements. |
-| 4 | [How to Write an Engaging Hook](Video%20Tutorials/Essay%20Structure/How%20to%20Write%20an%20Engaging%20Hook.html) | **Engagement** | Strategies for capturing reader attention through scholarly hooks. |
-| 5 | [How to Build a Body Paragraph](Video%20Tutorials/Essay%20Structure/How%20to%20Build%20a%20Body%20Paragraph.html) | **Composition** | Detailed instruction on paragraph development and evidence use. |
-| 6 | [Constructing a Conclusion](Video%20Tutorials/Essay%20Structure/Constructing%20a%20Conclusion.html) | **Structure** | Final synthesis strategies for effective academic conclusions. |
+| 2 | [APA 7th Edition - In-Text Citation (Full Module)](Video%20Tutorials/Academic%20Integrity%20Citing%20and%20Referencing/APA%207th%20Edition/In-Text%20Citation/Table%20of%20Contents.html) | **APA 7th** | Comprehensive guide to APA 7th Edition in-text citation rules. |
+| 3 | [APA 7th Edition - References (Full Module)](Video%20Tutorials/Academic%20Integrity%20Citing%20and%20Referencing/APA%207th%20Edition/References/Table%20of%20Contents.html) | **APA 7th** | Detailed instruction on APA 7th Edition reference list construction. |
+| 4 | [APA 7th Edition - What's New from APA 6th](Video%20Tutorials/Academic%20Integrity%20Citing%20and%20Referencing/APA%207th%20Edition%20-%20What's%20New%20from%20APA%206th.html) | **APA 7th** | Essential updates and transitions from APA 6th to 7th Edition. |
+| 5 | [MLA 8th Edition - In-Text Citations](Video%20Tutorials/Academic%20Integrity%20Citing%20and%20Referencing/MLA%208th%20Edition/MLA%208th%20Edition%20-%20In-Text%20Citations.html) | **MLA 8th** | Core principles of MLA 8th Edition in-text documentation. |
+| 6 | [MLA 8th Edition - Works Cited Part One](Video%20Tutorials/Academic%20Integrity%20Citing%20and%20Referencing/MLA%208th%20Edition/MLA%208th%20Edition%20-%20Works%20Cited%20Part%20One.html) | **MLA 8th** | Guidance on authorship and core elements of MLA Works Cited. |
+| 7 | [MLA 8th Edition - Works Cited Part Two](Video%20Tutorials/Academic%20Integrity%20Citing%20and%20Referencing/MLA%208th%20Edition/MLA%208th%20Edition%20-%20Works%20Cited%20Part%20Two.html) | **MLA 8th** | Advanced instruction on MLA Works Cited containers and sources. |
+
+### Essay Structure & Composition
+
+| # | Tutorial Resource | Domain | Description |
+|:-:|:---|:---:|:---|
+| 1 | [Anatomy of an Introduction](Video%20Tutorials/Essay%20Structure/The%20Anatomy%20of%20an%20Introduction.html) | **Structure** | Structural breakdown of effective academic essay introductions. |
+| 2 | [Effective Thesis Statements](Video%20Tutorials/Essay%20Structure/How%20to%20Write%20an%20Effective%20Thesis%20Statement.html) | **Logic** | Guidance on crafting strong, argumentative thesis statements. |
+| 3 | [How to Write an Engaging Hook](Video%20Tutorials/Essay%20Structure/How%20to%20Write%20an%20Engaging%20Hook.html) | **Engagement** | Strategies for capturing reader attention through scholarly hooks. |
+| 4 | [How to Build a Body Paragraph](Video%20Tutorials/Essay%20Structure/How%20to%20Build%20a%20Body%20Paragraph.html) | **Composition** | Detailed instruction on paragraph development and evidence use. |
+| 5 | [Constructing a Conclusion](Video%20Tutorials/Essay%20Structure/Constructing%20a%20Conclusion.html) | **Structure** | Final synthesis strategies for effective academic conclusions. |
+| 6 | [Top 10 Writing Tips](Video%20Tutorials/Writing%20Supports%20Top%2010%20Writing%20Tips.html) | **Synthesis** | Curated high-impact strategies for scholarly writing excellence. |
+
+### Grammar, Style & Punctuation
+
+| # | Tutorial Resource | Domain | Description |
+|:-:|:---|:---:|:---|
+| 1 | [Punctuation - Full Module](Video%20Tutorials/Punctuation/Table%20of%20Contents.html) | **Grammar** | Complete workshop on scholarly punctuation standards. |
+| 2 | [Transitions - Full Module](Video%20Tutorials/Transitions/Table%20of%20Contents.html) | **Style** | Advanced instruction on logical flow and transitional devices. |
+| 3 | [Editing for Conciseness](Video%20Tutorials/Editing%20for%20Conciseness.html) | **Style** | Strategies for streamlining academic prose and enhancing clarity. |
+| 4 | [Inclusive Language](Video%20Tutorials/Inclusive%20Language.html) | **Ethics** | Principles of bias-free and scholarly inclusive communication. |
 
 ---
 
