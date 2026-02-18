@@ -79,49 +79,32 @@ A structured inventory of essential support modules categorized by functional do
 
 ### Grammar and Style
 
-| # | Archival Resource | Format | Link |
+| # | Topic | PDF | PPT |
 |:-:|:---|:---:|:---|
-| 1 | Citing & Referencing | PDF | [View](Resources/Grammar_and_Style/Citing%20Referencing%20Brightspace.pdf) |
-| 2 | Citing & Referencing | PPTX | [View](Resources/Grammar_and_Style/Citing%20Referencing%20Brightspace.pptx) |
-| 3 | Editing for Conciseness | PDF | [View](Resources/Grammar_and_Style/Editing%20for%20Conciseness%20Brightspace.pdf) |
-| 4 | Editing for Conciseness | PPTX | [View](Resources/Grammar_and_Style/Editing%20for%20Conciseness%20Brightspace.pptx) |
-| 5 | Grammar - Tenses (Summer 2018) | PPTX | [View](Resources/Grammar_and_Style/Grammar%20-%20Tenses%20Summer%202018.pptx) |
-| 6 | Inclusive Language | PDF | [View](Resources/Grammar_and_Style/Inclusive-Language%20Brightspace.pdf) |
-| 7 | Inclusive Language (Aug 2022) | PPTX | [View](Resources/Grammar_and_Style/Inclusive-Language-August-2022%20Brightspace.pptx) |
-| 8 | Parts of Speech | PDF | [View](Resources/Grammar_and_Style/Parts%20of%20Speech.pdf) |
-| 9 | Parts of Speech | PPTX | [View](Resources/Grammar_and_Style/Parts%20of%20speech.pptx) |
-| 10 | Punctuation Primer | PPTX | [View](Resources/Grammar_and_Style/Punctuation%20Primer(5).pptx) |
-| 11 | Punctuation | PDF | [View](Resources/Grammar_and_Style/Punctuation.pdf) |
-| 12 | Tenses | PDF | [View](Resources/Grammar_and_Style/Tenses.pdf) |
-| 13 | Transitions | PDF | [View](Resources/Grammar_and_Style/Transitions.pdf) |
-| 14 | Transitions | PPTX | [View](Resources/Grammar_and_Style/TRANSITIONS.pptx) |
-| 15 | Understanding Pronouns | PDF | [View](Resources/Grammar_and_Style/Understanding%20Pronouns.pdf) |
-| 16 | Understanding Pronouns | PPTX | [View](Resources/Grammar_and_Style/Understanding%20Pronouns.pptx) |
+| 1 | Citing & Referencing | [View](Resources/Grammar_and_Style/Citing%20Referencing%20Brightspace.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Citing%20Referencing%20Brightspace.pptx) |
+| 2 | Editing for Conciseness | [View](Resources/Grammar_and_Style/Editing%20for%20Conciseness%20Brightspace.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Editing%20for%20Conciseness%20Brightspace.pptx) |
+| 3 | Grammar - Tenses (Summer 2018) | — | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Grammar%20-%20Tenses%20Summer%202018.pptx) |
+| 4 | Inclusive Language | [View](Resources/Grammar_and_Style/Inclusive-Language%20Brightspace.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Inclusive-Language-August-2022%20Brightspace.pptx) |
+| 5 | Parts of Speech | [View](Resources/Grammar_and_Style/Parts%20of%20Speech.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Parts%20of%20speech.pptx) |
+| 6 | Punctuation | [View](Resources/Grammar_and_Style/Punctuation.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Punctuation%20Primer(5).pptx) |
+| 7 | Tenses | [View](Resources/Grammar_and_Style/Tenses.pdf) | — |
+| 8 | Transitions | [View](Resources/Grammar_and_Style/Transitions.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/TRANSITIONS.pptx) |
+| 9 | Understanding Pronouns | [View](Resources/Grammar_and_Style/Understanding%20Pronouns.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Understanding%20Pronouns.pptx) |
 
 ### Citation Standards
 
-| # | Archival Resource | Format | Link |
+| # | Topic | PDF | PPT |
 |:-:|:---|:---:|:---|
-| 1 | APA 6 Workshop | PPTX | [View](Resources/Citation_Standards/APA%206%20Workshop%20Brightspace.pptx) |
-| 2 | APA 6 vs. 7 Quick Guide | PDF | [View](Resources/Citation_Standards/APA%206%20vs.%207%20quick%20guide%20(2).pdf) |
-| 3 | APA 6th vs. 7th Edition | PDF | [View](Resources/Citation_Standards/APA%206th%20vs.%207th%20edition(1).pdf) |
-| 4 | APA 7th Edition | PDF | [View](Resources/Citation_Standards/APA%207th%20edition.pdf) |
-| 5 | APA 7th Edition Cheat Sheet | PDF | [View](Resources/Citation_Standards/APA%207th%20Edition%20Cheat%20Sheet.pdf) |
-| 6 | APA 7th Edition Cheat Sheet | PNG | [View](Resources/Citation_Standards/APA%207th%20Edition%20Cheat%20Sheet.png) |
-| 7 | APA 7th Ed. Sample Paper (1) | DOCX | [View](Resources/Citation_Standards/APA%207th%20Edition%20Sample%20Student%20Paper%20Format%20(1).docx) |
-| 8 | APA 7th Ed. Sample Paper (2) | DOCX | [View](Resources/Citation_Standards/APA%207th%20Edition%20Sample%20Student%20Paper%20Format(1).docx) |
-| 9 | APA 7th Ed. Sample Paper | DOCX | [View](Resources/Citation_Standards/APA%207th%20Edition%20Sample%20Student%20Paper%20Format.docx) |
-| 10 | APA Essentials 7th Ed | PPTX | [View](Resources/Citation_Standards/APA%20Essentials%207th%20Ed(4)(1).pptx) |
-| 11 | APA Format | DOCX | [View](Resources/Citation_Standards/APA%20Format(5).docx) |
-| 12 | Chicago Style (2) | DOCX | [View](Resources/Citation_Standards/Chicago%20Style(2).docx) |
-| 13 | Chicago Style | PDF | [View](Resources/Citation_Standards/Chicago%20Style.pdf) |
-| 14 | Chicago Style Workshop | PPTX | [View](Resources/Citation_Standards/Chicago%20Style%20Workshop(2).pptx) |
-| 15 | IEEE Computer Science | PPTX | [View](Resources/Citation_Standards/IEEE%20Computer%20Science%20Banana.pptx) |
-| 16 | IEEE Template 1 | DOC | [View](Resources/Citation_Standards/IEEE%20Template%201.doc) |
-| 17 | IEEE Template | DOCX | [View](Resources/Citation_Standards/IEEE%20Template.docx) |
-| 18 | IEEE | PDF | [View](Resources/Citation_Standards/IEEE.pdf) |
-| 19 | MLA Workshop | PDF | [View](Resources/Citation_Standards/MLA%20Workshop%20Brightspace.pdf) |
-| 20 | MLA Workshop | PPTX | [View](Resources/Citation_Standards/MLA%20Workshop%20Brightspace.pptx) |
+| 1 | APA 6th Edition | [View](Resources/Citation_Standards/APA%206th%20vs.%207th%20edition(1).pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/APA%206%20Workshop%20Brightspace.pptx) |
+| 2 | APA 7th Edition | [View](Resources/Citation_Standards/APA%207th%20edition.pdf) | — |
+| 3 | APA 7th Edition Cheat Sheet | [View](Resources/Citation_Standards/APA%207th%20Edition%20Cheat%20Sheet.pdf) | — |
+| 4 | APA 7th Edition Essentials | — | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/APA%20Essentials%207th%20Ed(4)(1).pptx) |
+| 5 | Chicago Style | [View](Resources/Citation_Standards/Chicago%20Style.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/Chicago%20Style%20Workshop(2).pptx) |
+| 6 | IEEE Style | [View](Resources/Citation_Standards/IEEE.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/IEEE%20Computer%20Science%20Banana.pptx) |
+| 7 | MLA Style | [View](Resources/Citation_Standards/MLA%20Workshop%20Brightspace.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/MLA%20Workshop%20Brightspace.pptx) |
+
+> [!TIP]
+> **Extended Citation Resources**: For specialized formatting templates, refer to the **[Citation Standards](Resources/Citation_Standards/)** directory (Includes DOC/DOCX/PNG formats).
 
 ### Submission Samples
 
