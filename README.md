@@ -167,7 +167,7 @@ Multimedia pedagogical resources designed to provide deep-dive instruction on sp
 
 ## Usage Guidelines
 
-This repository is openly shared to support scholarly excellence and academic integrity across the university community.
+This repository is openly shared to support learning and knowledge exchange across the academic community.
 
 **For Students**
 Use these resources as a comprehensive guide for mastering citation styles, structuring academic papers, and understanding plagiarism avoidance. The repository contains detailed templates and tutorials to facilitate independent learning.
