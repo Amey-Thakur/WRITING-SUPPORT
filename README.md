@@ -212,7 +212,9 @@ This repository represents a commitment to supporting the scholarly journey of s
 
 Grateful acknowledgment to the **Writing Support** staff and the **University of Windsor** administration for providing the foundational resources and pedagogical materials that populate this archive.
 
-Special thanks to **Jason Horn** for his invaluable support with academic writing and his prolific contributions to student success. His pedagogical expertise and [YouTube metadata](https://www.youtube.com/@jasonhorn901) form a critical component of this scholarly hub.
+Grateful acknowledgment to **Jason Horn**, **Writing Support**, **University of Windsor**, for his distinguished mentorship and scholarly guidance. His thoughtful feedback and methodological precision were instrumental in strengthening the analytical depth and professional quality of my academic work. His commitment to excellence and integrity is gratefully acknowledged.
+
+The curated video tutorials featured in this repository are sourced directly from the **[Jason Horn](https://www.youtube.com/@jasonhorn901)** YouTube channel. These pedagogical resources provide comprehensive instruction on academic writing, citation standards, and scholarly integrity.
 
 ---
 
