@@ -82,17 +82,17 @@ A structured inventory of essential support modules categorized by functional do
 
 | # | Topic | PDF | PPT |
 |:-:|:---|:---:|:---:|
-| 1 | Citing and Referencing: An Overview of APA, MLA, and Chicago Styles | [View](Resources/Grammar_and_Style/Citing%20and%20Referencing%20-%20Overview%20of%20APA%20MLA%20Chicago%20Styles.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Citing%20and%20Referencing%20-%20Overview%20of%20APA%20MLA%20Chicago%20Styles.pptx) |
-| 2 | Editing for Conciseness | [View](Resources/Grammar_and_Style/Editing%20for%20Conciseness%20Brightspace.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Editing%20for%20Conciseness%20Brightspace.pptx) |
-| 3 | Grammar: Tenses - Improving Verb Tense Usage in Academic Writing | [View](Resources/Grammar_and_Style/Grammar%20-%20Tenses%20-%20Improving%20Verb%20Tense%20Usage.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Grammar%20-%20Tenses%20-%20Improving%20Verb%20Tense%20Usage.pptx) |
-| 4 | Inclusive Language | [View](Resources/Grammar_and_Style/Inclusive%20Language.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Inclusive%20Language.pptx) |
-| 5 | Parts of Speech | [View](Resources/Grammar_and_Style/Parts%20of%20Speech.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Parts%20of%20speech.pptx) |
-| 6 | Punctuation | [View](Resources/Grammar_and_Style/Punctuation%20Primer%20Brightspace.pdf) | — |
-| 7 | Punctuation Primer | [View](Resources/Grammar_and_Style/Punctuation%20Primer.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Punctuation%20Primer.pptx) |
-| 8 | Tenses: Past, Present, and Future | [View](Resources/Grammar_and_Style/Tenses%20-%20Past%20Present%20Future.pdf) | — |
-| 9 | Transitions Brightspace | [View](Resources/Grammar_and_Style/Transitions%20Brightspace.pdf) | — |
-| 10 | Transitions | [View](Resources/Grammar_and_Style/Transitions.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Transitions.pptx) |
-| 11 | Understanding Pronouns | [View](Resources/Grammar_and_Style/Understanding%20Pronouns.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Understanding%20Pronouns.pptx) |
+| 1 | Parts of Speech | [View](Resources/Grammar_and_Style/Parts%20of%20Speech.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Parts%20of%20speech.pptx) |
+| 2 | Understanding Pronouns | [View](Resources/Grammar_and_Style/Understanding%20Pronouns.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Understanding%20Pronouns.pptx) |
+| 3 | Tenses: Past, Present, and Future | [View](Resources/Grammar_and_Style/Tenses%20-%20Past%20Present%20Future.pdf) | — |
+| 4 | Grammar: Tenses - Improving Verb Tense Usage in Academic Writing | [View](Resources/Grammar_and_Style/Grammar%20-%20Tenses%20-%20Improving%20Verb%20Tense%20Usage.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Grammar%20-%20Tenses%20-%20Improving%20Verb%20Tense%20Usage.pptx) |
+| 5 | Punctuation | [View](Resources/Grammar_and_Style/Punctuation%20Primer%20Brightspace.pdf) | — |
+| 6 | Punctuation Primer | [View](Resources/Grammar_and_Style/Punctuation%20Primer.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Punctuation%20Primer.pptx) |
+| 7 | Transitions Brightspace | [View](Resources/Grammar_and_Style/Transitions%20Brightspace.pdf) | — |
+| 8 | Transitions | [View](Resources/Grammar_and_Style/Transitions.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Transitions.pptx) |
+| 9 | Editing for Conciseness | [View](Resources/Grammar_and_Style/Editing%20for%20Conciseness%20Brightspace.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Editing%20for%20Conciseness%20Brightspace.pptx) |
+| 10 | Inclusive Language | [View](Resources/Grammar_and_Style/Inclusive%20Language.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Inclusive%20Language.pptx) |
+| 11 | Citing and Referencing: An Overview of APA, MLA, and Chicago Styles | [View](Resources/Grammar_and_Style/Citing%20and%20Referencing%20-%20Overview%20of%20APA%20MLA%20Chicago%20Styles.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Citing%20and%20Referencing%20-%20Overview%20of%20APA%20MLA%20Chicago%20Styles.pptx) |
 
 ### Citation Standards
 
