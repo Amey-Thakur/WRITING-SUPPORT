@@ -65,26 +65,17 @@ A structured inventory of essential support modules categorized by functional do
 
 ### Writing Foundations
 
-| # | Archival Resource | Format | Link |
+| # | Topic | PDF | PPT |
 |:-:|:---|:---:|:---|
-| 1 | Abstracts | PDF | [View](Resources/Writing_Foundations/Abstracts%20-%20Brightspace.pdf) |
-| 2 | Abstracts | PPTX | [View](Resources/Writing_Foundations/Abstracts%20-%20Brightspace.pptx) |
-| 3 | Academic Integrity & Plagiarism Avoidance | PDF | [View](Resources/Writing_Foundations/Academic%20Integrity%20and%20Plagiarism%20Avoidance%20WSD.pdf) |
-| 4 | Academic Integrity & Plagiarism Avoidance | PPTX | [View](Resources/Writing_Foundations/Academic%20Integrity%20and%20Plagiarism%20Avoidance%20WSD.pptx) |
-| 5 | Essay Blueprint | PDF | [View](Resources/Writing_Foundations/Essay%20Blueprint%20-%20Brightspace.pdf) |
-| 6 | Essay Blueprint | PPTX | [View](Resources/Writing_Foundations/Essay%20Blueprint%20-%20Brightspace.pptx) |
-| 7 | Graduate Applications | PDF | [View](Resources/Writing_Foundations/Graduate%20Applications%20Brightspace.pdf) |
-| 8 | Graduate Applications | PPTX | [View](Resources/Writing_Foundations/Graduate%20Applications%20Brightspace.pptx) |
-| 9 | Lit Review vs. Annotated Bibliography | PDF | [View](Resources/Writing_Foundations/Lit%20Review%20vs.%20Annotated%20Bibliography%20-%20Brightspace.pdf) |
-| 10 | Lit Review vs. Annotated Bibliography | PPTX | [View](Resources/Writing_Foundations/Lit%20Review%20vs.%20Annotated%20Bibliography%20-%20Brightspace.pptx) |
-| 11 | Pre-Writing Workshop | PDF | [View](Resources/Writing_Foundations/Pre-Writing%20Workshop%20Brightspace.pdf) |
-| 12 | Pre-Writing Workshop | PPTX | [View](Resources/Writing_Foundations/Pre-Writing%20Workshop%20Brightspace.pptx) |
-| 13 | Proposal Writing | PDF | [View](Resources/Writing_Foundations/Proposal%20Writing.pdf) |
-| 14 | Proposal Writing | PPTX | [View](Resources/Writing_Foundations/Proposal%20Writing.pptx) |
-| 15 | Science Writing ACS | PDF | [View](Resources/Writing_Foundations/Science%20Writing%20ACS.pdf) |
-| 16 | Science Writing | PPTX | [View](Resources/Writing_Foundations/Science%20Writing.pptx) |
-| 17 | Sentence Structure Workshop | PDF | [View](Resources/Writing_Foundations/Sentence%20Structure%20Workshop%20Brightspace.pdf) |
-| 18 | Sentence Structure Workshop | PPTX | [View](Resources/Writing_Foundations/Sentence%20Structure%20Workshop%20Brightspace.pptx) |
+| 1 | Abstracts | [View](Resources/Writing_Foundations/Abstracts%20-%20Brightspace.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Writing_Foundations/Abstracts%20-%20Brightspace.pptx) |
+| 2 | Academic Integrity & Plagiarism Avoidance | [View](Resources/Writing_Foundations/Academic%20Integrity%20and%20Plagiarism%20Avoidance%20WSD.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Writing_Foundations/Academic%20Integrity%20and%20Plagiarism%20Avoidance%20WSD.pptx) |
+| 3 | Essay Blueprint | [View](Resources/Writing_Foundations/Essay%20Blueprint%20-%20Brightspace.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Writing_Foundations/Essay%20Blueprint%20-%20Brightspace.pptx) |
+| 4 | Graduate Applications | [View](Resources/Writing_Foundations/Graduate%20Applications%20Brightspace.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Writing_Foundations/Graduate%20Applications%20Brightspace.pptx) |
+| 5 | Lit Review vs. Annotated Bibliography | [View](Resources/Writing_Foundations/Lit%20Review%20vs.%20Annotated%20Bibliography%20-%20Brightspace.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Writing_Foundations/Lit%20Review%20vs.%20Annotated%20Bibliography%20-%20Brightspace.pptx) |
+| 6 | Pre-Writing Workshop | [View](Resources/Writing_Foundations/Pre-Writing%20Workshop%20Brightspace.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Writing_Foundations/Pre-Writing%20Workshop%20Brightspace.pptx) |
+| 7 | Proposal Writing | [View](Resources/Writing_Foundations/Proposal%20Writing.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Writing_Foundations/Proposal%20Writing.pptx) |
+| 8 | Science Writing | [View](Resources/Writing_Foundations/Science%20Writing%20ACS.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Writing_Foundations/Science%20Writing.pptx) |
+| 9 | Sentence Structure Workshop | [View](Resources/Writing_Foundations/Sentence%20Structure%20Workshop%20Brightspace.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Writing_Foundations/Sentence%20Structure%20Workshop%20Brightspace.pptx) |
 
 ### Grammar and Style
 
