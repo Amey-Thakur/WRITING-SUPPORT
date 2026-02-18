@@ -67,51 +67,51 @@ A structured inventory of essential support modules categorized by functional do
 
 | # | Topic | PDF | PPT |
 |:-:|:---|:---:|:---:|
-| 1 | An Introduction to Academic Integrity & Plagiarism Avoidance | [View](Resources/Writing_Foundations/An%20Introduction%20to%20Academic%20Integrity%20and%20Plagiarism%20Avoidance.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Writing_Foundations/An%20Introduction%20to%20Academic%20Integrity%20and%20Plagiarism%20Avoidance.pptx) |
-| 2 | Pre-Writing Workshop | [View](Resources/Writing_Foundations/Pre-Writing%20Workshop%20Brightspace.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Writing_Foundations/Pre-Writing%20Workshop%20Brightspace.pptx) |
-| 3 | Blueprint of an Essay | [View](Resources/Writing_Foundations/Blueprint%20of%20an%20Essay.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Writing_Foundations/Blueprint%20of%20an%20Essay.pptx) |
-| 4 | Sentence Structure Workshop | [View](Resources/Writing_Foundations/Sentence%20Structure%20Workshop%20Brightspace.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Writing_Foundations/Sentence%20Structure%20Workshop%20Brightspace.pptx) |
-| 5 | Abstract Essentials | [View](Resources/Writing_Foundations/Abstract%20Essentials.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Writing_Foundations/Abstract%20Essentials.pptx) |
-| 6 | Literature Review vs. Annotated Bibliography | [View](Resources/Writing_Foundations/Literature%20Review%20vs.%20Annotated%20Bibliography.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Writing_Foundations/Literature%20Review%20vs.%20Annotated%20Bibliography.pptx) |
-| 7 | Proposal Writing Workshop | [View](Resources/Writing_Foundations/Proposal%20Writing%20Workshop%20Brightspace.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Writing_Foundations/Proposal%20Writing%20Workshop%20Brightspace.pptx) |
-| 8 | Science Writing | [View](Resources/Writing_Foundations/Science%20Writing.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Writing_Foundations/Science%20Writing.pptx) |
-| 9 | Science Writing & ACS Style | [View](Resources/Writing_Foundations/Science%20Writing%20%26%20ACS%20Style.pdf) | — |
-| 10 | Graduate Applications | [View](Resources/Writing_Foundations/Graduate%20Applications%20Brightspace.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Writing_Foundations/Graduate%20Applications%20Brightspace.pptx) |
+| 1 | An Introduction to Academic Integrity & Plagiarism Avoidance | [View](Resources/Writing%20Foundations/An%20Introduction%20to%20Academic%20Integrity%20and%20Plagiarism%20Avoidance.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Writing%20Foundations/An%20Introduction%20to%20Academic%20Integrity%20and%20Plagiarism%20Avoidance.pptx) |
+| 2 | Pre-Writing Workshop | [View](Resources/Writing%20Foundations/Pre-Writing%20Workshop%20Brightspace.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Writing%20Foundations/Pre-Writing%20Workshop%20Brightspace.pptx) |
+| 3 | Blueprint of an Essay | [View](Resources/Writing%20Foundations/Blueprint%20of%20an%20Essay.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Writing%20Foundations/Blueprint%20of%20an%20Essay.pptx) |
+| 4 | Sentence Structure Workshop | [View](Resources/Writing%20Foundations/Sentence%20Structure%20Workshop%20Brightspace.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Writing%20Foundations/Sentence%20Structure%20Workshop%20Brightspace.pptx) |
+| 5 | Abstract Essentials | [View](Resources/Writing%20Foundations/Abstract%20Essentials.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Writing%20Foundations/Abstract%20Essentials.pptx) |
+| 6 | Literature Review vs. Annotated Bibliography | [View](Resources/Writing%20Foundations/Literature%20Review%20vs.%20Annotated%20Bibliography.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Writing%20Foundations/Literature%20Review%20vs.%20Annotated%20Bibliography.pptx) |
+| 7 | Proposal Writing Workshop | [View](Resources/Writing%20Foundations/Proposal%20Writing%20Workshop%20Brightspace.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Writing%20Foundations/Proposal%20Writing%20Workshop%20Brightspace.pptx) |
+| 8 | Science Writing | [View](Resources/Writing%20Foundations/Science%20Writing.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Writing%20Foundations/Science%20Writing.pptx) |
+| 9 | Science Writing & ACS Style | [View](Resources/Writing%20Foundations/Science%20Writing%20%26%20ACS%20Style.pdf) | — |
+| 10 | Graduate Applications | [View](Resources/Writing%20Foundations/Graduate%20Applications%20Brightspace.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Writing%20Foundations/Graduate%20Applications%20Brightspace.pptx) |
 
 ### Grammar and Style
 
 | # | Topic | PDF | PPT |
 |:-:|:---|:---:|:---:|
-| 1 | Parts of Speech | [View](Resources/Grammar_and_Style/Parts%20of%20Speech.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Parts%20of%20speech.pptx) |
-| 2 | Understanding Pronouns | [View](Resources/Grammar_and_Style/Understanding%20Pronouns.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Understanding%20Pronouns.pptx) |
-| 3 | Tenses: Past, Present, and Future | [View](Resources/Grammar_and_Style/Tenses%20-%20Past%20Present%20Future.pdf) | — |
-| 4 | Grammar: Tenses - Improving Verb Tense Usage in Academic Writing | [View](Resources/Grammar_and_Style/Grammar%20-%20Tenses%20-%20Improving%20Verb%20Tense%20Usage.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Grammar%20-%20Tenses%20-%20Improving%20Verb%20Tense%20Usage.pptx) |
-| 5 | Punctuation | [View](Resources/Grammar_and_Style/Punctuation%20Primer%20Brightspace.pdf) | — |
-| 6 | Punctuation Primer | [View](Resources/Grammar_and_Style/Punctuation%20Primer.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Punctuation%20Primer.pptx) |
-| 7 | Transitions Brightspace | [View](Resources/Grammar_and_Style/Transitions%20Brightspace.pdf) | — |
-| 8 | Transitions | [View](Resources/Grammar_and_Style/Transitions.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Transitions.pptx) |
-| 9 | Editing for Conciseness | [View](Resources/Grammar_and_Style/Editing%20for%20Conciseness%20Brightspace.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Editing%20for%20Conciseness%20Brightspace.pptx) |
-| 10 | Inclusive Language | [View](Resources/Grammar_and_Style/Inclusive%20Language.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Inclusive%20Language.pptx) |
-| 11 | Citing and Referencing: An Overview of APA, MLA, and Chicago Styles | [View](Resources/Grammar_and_Style/Citing%20and%20Referencing%20-%20Overview%20of%20APA%20MLA%20Chicago%20Styles.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Citing%20and%20Referencing%20-%20Overview%20of%20APA%20MLA%20Chicago%20Styles.pptx) |
+| 1 | Parts of Speech | [View](Resources/Grammar%20and%20Style/Parts%20of%20Speech.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar%20and%20Style/Parts%20of%20speech.pptx) |
+| 2 | Understanding Pronouns | [View](Resources/Grammar%20and%20Style/Understanding%20Pronouns.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar%20and%20Style/Understanding%20Pronouns.pptx) |
+| 3 | Tenses: Past, Present, and Future | [View](Resources/Grammar%20and%20Style/Tenses%20-%20Past%20Present%20Future.pdf) | — |
+| 4 | Grammar: Tenses - Improving Verb Tense Usage in Academic Writing | [View](Resources/Grammar%20and%20Style/Grammar%20-%20Tenses%20-%20Improving%20Verb%20Tense%20Usage.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar%20and%20Style/Grammar%20-%20Tenses%20-%20Improving%20Verb%20Tense%20Usage.pptx) |
+| 5 | Punctuation | [View](Resources/Grammar%20and%20Style/Punctuation%20Primer%20Brightspace.pdf) | — |
+| 6 | Punctuation Primer | [View](Resources/Grammar%20and%20Style/Punctuation%20Primer.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar%20and%20Style/Punctuation%20Primer.pptx) |
+| 7 | Transitions Brightspace | [View](Resources/Grammar%20and%20Style/Transitions%20Brightspace.pdf) | — |
+| 8 | Transitions | [View](Resources/Grammar%20and%20Style/Transitions.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar%20and%20Style/Transitions.pptx) |
+| 9 | Editing for Conciseness | [View](Resources/Grammar%20and%20Style/Editing%20for%20Conciseness%20Brightspace.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar%20and%20Style/Editing%20for%20Conciseness%20Brightspace.pptx) |
+| 10 | Inclusive Language | [View](Resources/Grammar%20and%20Style/Inclusive%20Language.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar%20and%20Style/Inclusive%20Language.pptx) |
+| 11 | Citing and Referencing: An Overview of APA, MLA, and Chicago Styles | [View](Resources/Grammar%20and%20Style/Citing%20and%20Referencing%20-%20Overview%20of%20APA%20MLA%20Chicago%20Styles.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar%20and%20Style/Citing%20and%20Referencing%20-%20Overview%20of%20APA%20MLA%20Chicago%20Styles.pptx) |
 
 ### Citation Standards
 
 | # | Topic | PDF | PPT | Document |
 |:-:|:---|:---:|:---:|:---:|
-| 1 | APA Citation 7th Edition | [View](Resources/Citation_Standards/APA%20Citation%207th%20edition.pdf) | — | — |
-| 2 | APA 7th Edition Essentials | [View](Resources/Citation_Standards/APA%20Essentials%207th%20edition.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/APA%20Essentials%207th%20edition.pptx) | — |
-| 3 | APA 7th Edition Cheat Sheet | [View](Resources/Citation_Standards/APA%207th%20Edition%20Cheat%20Sheet.pdf) | — | [PNG](Resources/Citation_Standards/APA%207th%20Edition%20Cheat%20Sheet.png) |
-| 4 | APA Formatting Guide | [View](Resources/Citation_Standards/APA%20Format.pdf) | — | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/APA%20Format.docx) |
-| 5 | APA 7th Sample Paper | [View](Resources/Citation_Standards/APA%207th%20Edition%20Sample%20Student%20Paper%20Format.pdf) | — | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/APA%207th%20Edition%20Sample%20Student%20Paper%20Format.docx) |
-| 6 | APA 6th vs. 7th Edition Updates - Quick Guide | [View](Resources/Citation_Standards/APA%206th%20vs%207th%20Edition%20Updates%20-%20Quick%20Guide.pdf) | — | — |
-| 7 | APA 6th vs. 7th Edition Updates | [View](Resources/Citation_Standards/APA%206th%20vs%207th%20Edition%20Updates.pdf) | — | — |
-| 8 | APA 6th Edition Citation Workshop | [View](Resources/Citation_Standards/APA%206th%20Edition%20Citation%20Workshop.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/APA%206th%20Edition%20Citation%20Workshop.pptx) | — |
-| 9 | Chicago Manual Style: An Introduction to Citing and Referencing | [View](Resources/Citation_Standards/An%20Introduction%20to%20Citing%20and%20Referencing%20-%20Chicago%20Manual%20Style.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/An%20Introduction%20to%20Citing%20and%20Referencing%20-%20Chicago%20Manual%20Style.pptx) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/An%20Introduction%20to%20Citing%20and%20Referencing%20-%20Chicago%20Manual%20Style.docx) |
-| 10 | IEEE Citing and Referencing | [View](Resources/Citation_Standards/IEEE%20Citing%20and%20Referencing.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/IEEE%20Citing%20and%20Referencing.pptx) | — |
-| 11 | IEEE Citing and Referencing Brightspace | [View](Resources/Citation_Standards/IEEE%20Citing%20and%20Referencing%20Brightspace.pdf) | — | — |
-| 12 | IEEE Format Template | [View](Resources/Citation_Standards/IEEE%20Template.pdf) | — | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/IEEE%20Template.docx) |
-| 13 | IEEE Format Template | [View](Resources/Citation_Standards/IEEE%20Format%20Template.pdf) | — | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/IEEE%20Format%20Template.doc) |
-| 14 | MLA Citation Workshop | [View](Resources/Citation_Standards/MLA%20Citation%20Workshop.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/MLA%20Citation%20Workshop.pptx) | — |
+| 1 | APA Citation 7th Edition | [View](Resources/Citation%20Standards/APA%20Citation%207th%20edition.pdf) | — | — |
+| 2 | APA 7th Edition Essentials | [View](Resources/Citation%20Standards/APA%20Essentials%207th%20edition.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation%20Standards/APA%20Essentials%207th%20edition.pptx) | — |
+| 3 | APA 7th Edition Cheat Sheet | [View](Resources/Citation%20Standards/APA%207th%20Edition%20Cheat%20Sheet.pdf) | — | [PNG](Resources/Citation%20Standards/APA%207th%20Edition%20Cheat%20Sheet.png) |
+| 4 | APA Formatting Guide | [View](Resources/Citation%20Standards/APA%20Format.pdf) | — | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation%20Standards/APA%20Format.docx) |
+| 5 | APA 7th Sample Paper | [View](Resources/Citation%20Standards/APA%207th%20Edition%20Sample%20Student%20Paper%20Format.pdf) | — | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation%20Standards/APA%207th%20Edition%20Sample%20Student%20Paper%20Format.docx) |
+| 6 | APA 6th vs. 7th Edition Updates - Quick Guide | [View](Resources/Citation%20Standards/APA%206th%20vs%207th%20Edition%20Updates%20-%20Quick%20Guide.pdf) | — | — |
+| 7 | APA 6th vs. 7th Edition Updates | [View](Resources/Citation%20Standards/APA%206th%20vs%207th%20Edition%20Updates.pdf) | — | — |
+| 8 | APA 6th Edition Citation Workshop | [View](Resources/Citation%20Standards/APA%206th%20Edition%20Citation%20Workshop.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation%20Standards/APA%206th%20Edition%20Citation%20Workshop.pptx) | — |
+| 9 | Chicago Manual Style: An Introduction to Citing and Referencing | [View](Resources/Citation%20Standards/An%20Introduction%20to%20Citing%20and%20Referencing%20-%20Chicago%20Manual%20Style.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation%20Standards/An%20Introduction%20to%20Citing%20and%20Referencing%20-%20Chicago%20Manual%20Style.pptx) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation%20Standards/An%20Introduction%20to%20Citing%20and%20Referencing%20-%20Chicago%20Manual%20Style.docx) |
+| 10 | IEEE Citing and Referencing | [View](Resources/Citation%20Standards/IEEE%20Citing%20and%20Referencing.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation%20Standards/IEEE%20Citing%20and%20Referencing.pptx) | — |
+| 11 | IEEE Citing and Referencing Brightspace | [View](Resources/Citation%20Standards/IEEE%20Citing%20and%20Referencing%20Brightspace.pdf) | — | — |
+| 12 | IEEE Format Template | [View](Resources/Citation%20Standards/IEEE%20Template.pdf) | — | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation%20Standards/IEEE%20Template.docx) |
+| 13 | IEEE Format Template | [View](Resources/Citation%20Standards/IEEE%20Format%20Template.pdf) | — | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation%20Standards/IEEE%20Format%20Template.doc) |
+| 14 | MLA Citation Workshop | [View](Resources/Citation%20Standards/MLA%20Citation%20Workshop.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation%20Standards/MLA%20Citation%20Workshop.pptx) | — |
 
 
 
@@ -119,11 +119,11 @@ A structured inventory of essential support modules categorized by functional do
 
 | # | Topic | PDF | PPT | Document |
 |:-:|:---|:---:|:---:|:---:|
-| 1 | Graduate Studies Submission Sample | [View](Resources/Submission_Samples/Graduate%20Studies%20Submission%20Sample%20Paper.pdf) | — | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Submission_Samples/Graduate%20Studies%20Submission%20Sample%20Paper.docx) |
-| 2 | MLA 8th Edition Sample Paper | [View](Resources/Submission_Samples/MLA%208th%20Edition%20Sample%20Paper.pdf) | — | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Submission_Samples/MLA%208th%20Edition%20Sample%20Paper.docx) |
-| 3 | Examples of Transitions | [View](Resources/Submission_Samples/Essay_Writing_Help/Examples%20of%20Transitions.pdf) | — | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Submission_Samples/Essay_Writing_Help/Examples%20of%20Transitions.doc) |
-| 4 | Sample Essay with Common Errors - No Corrections | [View](Resources/Submission_Samples/Essay_Writing_Help/Sample%20Essay%20with%20Common%20Errors%20-%20No%20Corrections.pdf) | — | — |
-| 5 | Sample Essay with Corrections | [View](Resources/Submission_Samples/Essay_Writing_Help/Sample%20Essay%20with%20Corrections.pdf) | — | — |
+| 1 | Graduate Studies Submission Sample | [View](Resources/Submission%20Samples/Graduate%20Studies%20Submission%20Sample%20Paper.pdf) | — | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Submission%20Samples/Graduate%20Studies%20Submission%20Sample%20Paper.docx) |
+| 2 | MLA 8th Edition Sample Paper | [View](Resources/Submission%20Samples/MLA%208th%20Edition%20Sample%20Paper.pdf) | — | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Submission%20Samples/MLA%208th%20Edition%20Sample%20Paper.docx) |
+| 3 | Examples of Transitions | [View](Resources/Submission%20Samples/Essay%20Writing%20Help/Examples%20of%20Transitions.pdf) | — | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Submission%20Samples/Essay%20Writing%20Help/Examples%20of%20Transitions.doc) |
+| 4 | Sample Essay with Common Errors - No Corrections | [View](Resources/Submission%20Samples/Essay%20Writing%20Help/Sample%20Essay%20with%20Common%20Errors%20-%20No%20Corrections.pdf) | — | — |
+| 5 | Sample Essay with Corrections | [View](Resources/Submission%20Samples/Essay%20Writing%20Help/Sample%20Essay%20with%20Corrections.pdf) | — | — |
 
 ---
 
