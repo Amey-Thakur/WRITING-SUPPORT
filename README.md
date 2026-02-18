@@ -103,7 +103,7 @@ A structured inventory of essential support modules categorized by functional do
 | 3 | APA 6th vs. 7th Edition Updates | — | [View](Resources/Citation_Standards/APA%206th%20vs%207th%20Edition%20Updates.pdf) | — |
 | 4 | APA Citation 7th Edition | — | [View](Resources/Citation_Standards/APA%20Citation%207th%20edition.pdf) | — |
 | 5 | APA 7th Edition Cheat Sheet | [PNG](Resources/Citation_Standards/APA%207th%20Edition%20Cheat%20Sheet.png) | [View](Resources/Citation_Standards/APA%207th%20Edition%20Cheat%20Sheet.pdf) | — |
-| 6 | APA 7th Edition Essentials | — | — | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/APA%20Essentials%207th%20Ed(4)(1).pptx) |
+| 6 | APA 7th Edition Essentials | — | [View](Resources/Citation_Standards/APA%20Essentials%207th%20edition.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/APA%20Essentials%207th%20edition.pptx) |
 | 7 | APA Formatting Guide | [DOCX](Resources/Citation_Standards/APA%20Format(5).docx) | — | — |
 | 8 | APA 7th Sample Paper | [DOCX](Resources/Citation_Standards/APA%207th%20Edition%20Sample%20Student%20Paper%20Format.docx) | [View](Resources/Citation_Standards/APA%207th%20Edition%20Sample%20Student%20Paper%20Format.pdf) | — |
 | 9 | Chicago Style | [DOCX](Resources/Citation_Standards/Chicago%20Style(2).docx) | [View](Resources/Citation_Standards/Chicago%20Style.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/Chicago%20Style%20Workshop(2).pptx) |
