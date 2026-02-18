@@ -140,8 +140,10 @@ A structured collection of multimedia pedagogical resources categorized by speci
 > During my graduate tenure (**Master of Engineering**) at the **University of Windsor**, I had the distinct honor of engaging with the sophisticated mentorship of **Jason Horn**. Beyond his command of academic discourse, he is a consummate professional whose intellectual rigor and nuanced guidance were instrumental in refining my scholarly voice. His commitment to clarity and integrity remains a foundational influence on my professional communication.
 
 <div align="center">
+
   [![YouTube Channel](https://img.shields.io/badge/YouTube-Jason%20Horn-red.svg)](https://www.youtube.com/channel/UCgsCLIcEpXCkAh6B2HoAWsg)
   [![Channel ID](https://img.shields.io/badge/Channel%20ID-UCgsCLIcEpXCkAh6B2HoAWsg-005596.svg)](https://www.youtube.com/channel/UCgsCLIcEpXCkAh6B2HoAWsg)
+
 </div>
 
 > [!TIP]
