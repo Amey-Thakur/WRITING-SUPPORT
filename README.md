@@ -141,7 +141,7 @@ A structured collection of multimedia pedagogical resources categorized by speci
 
 <div align="center">
 
-  [![YouTube Channel](https://img.shields.io/badge/YouTube-Jason%20Horn-red.svg)](https://www.youtube.com/channel/UCgsCLIcEpXCkAh6B2HoAWsg)
+  [![YouTube](https://img.shields.io/badge/YouTube-Jason%20Horn-FF0000.svg)](https://www.youtube.com/channel/UCgsCLIcEpXCkAh6B2HoAWsg)
   [![Channel ID](https://img.shields.io/badge/Channel%20ID-UCgsCLIcEpXCkAh6B2HoAWsg-005596.svg)](https://www.youtube.com/channel/UCgsCLIcEpXCkAh6B2HoAWsg)
 
 </div>
