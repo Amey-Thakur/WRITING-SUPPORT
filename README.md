@@ -91,7 +91,7 @@ A structured inventory of essential support modules categorized by functional do
 | 7 | Punctuation Primer | [View](Resources/Grammar_and_Style/Punctuation%20Primer.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Punctuation%20Primer.pptx) |
 | 8 | Tenses (General) | [View](Resources/Grammar_and_Style/Tenses.pdf) | — |
 | 9 | Transitions Brightspace | [View](Resources/Grammar_and_Style/Transitions%20Brightspace.pdf) | — |
-| 10 | Transitions | — | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/TRANSITIONS.pptx) |
+| 10 | Transitions | [View](Resources/Grammar_and_Style/Transitions.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Transitions.pptx) |
 | 11 | Understanding Pronouns | [View](Resources/Grammar_and_Style/Understanding%20Pronouns.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Understanding%20Pronouns.pptx) |
 
 ### Citation Standards
