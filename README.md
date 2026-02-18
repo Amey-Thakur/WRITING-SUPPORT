@@ -108,9 +108,10 @@ A structured inventory of essential support modules categorized by functional do
 | 8 | APA 7th Sample Paper | [DOCX](Resources/Citation_Standards/APA%207th%20Edition%20Sample%20Student%20Paper%20Format.docx) | [View](Resources/Citation_Standards/APA%207th%20Edition%20Sample%20Student%20Paper%20Format.pdf) | — |
 | 9 | An Introduction to Citing and Referencing: Chicago Manual Style | [DOCX](Resources/Citation_Standards/An%20Introduction%20to%20Citing%20and%20Referencing%20-%20Chicago%20Manual%20Style.docx) | [View](Resources/Citation_Standards/An%20Introduction%20to%20Citing%20and%20Referencing%20-%20Chicago%20Manual%20Style.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/An%20Introduction%20to%20Citing%20and%20Referencing%20-%20Chicago%20Manual%20Style.pptx) |
 | 10 | IEEE Citing and Referencing | — | [View](Resources/Citation_Standards/IEEE%20Citing%20and%20Referencing.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/IEEE%20Citing%20and%20Referencing.pptx) |
-| 11 | IEEE Format Template | [DOCX](Resources/Citation_Standards/IEEE%20Template.docx) | [View](Resources/Citation_Standards/IEEE%20Template.pdf) | — |
-| 12 | IEEE Format Template | [DOC](Resources/Citation_Standards/IEEE%20Format%20Template.doc) | [View](Resources/Citation_Standards/IEEE%20Format%20Template.pdf) | — |
-| 13 | MLA Style | — | [View](Resources/Citation_Standards/MLA%20Workshop%20Brightspace.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/MLA%20Workshop%20Brightspace.pptx) |
+| 11 | IEEE Citing and Referencing Brightspace | — | [View](Resources/Citation_Standards/IEEE%20Citing%20and%20Referencing%20Brightspace.pdf) | — |
+| 12 | IEEE Format Template | [DOCX](Resources/Citation_Standards/IEEE%20Template.docx) | [View](Resources/Citation_Standards/IEEE%20Template.pdf) | — |
+| 13 | IEEE Format Template | [DOC](Resources/Citation_Standards/IEEE%20Format%20Template.doc) | [View](Resources/Citation_Standards/IEEE%20Format%20Template.pdf) | — |
+| 14 | MLA Style | — | [View](Resources/Citation_Standards/MLA%20Workshop%20Brightspace.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/MLA%20Workshop%20Brightspace.pptx) |
 
 
 ### Submission Samples
