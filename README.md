@@ -82,7 +82,7 @@ A structured inventory of essential support modules categorized by functional do
 
 | # | Topic | PDF | PPT |
 |:-:|:---|:---:|:---:|
-| 1 | Citing & Referencing | [View](Resources/Grammar_and_Style/Citing%20Referencing%20Brightspace.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Citing%20Referencing%20Brightspace.pptx) |
+| 1 | Citing and Referencing: An Overview of APA, MLA, and Chicago Styles | [View](Resources/Grammar_and_Style/Citing%20and%20Referencing%20-%20Overview%20of%20APA%20MLA%20Chicago%20Styles.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Citing%20and%20Referencing%20-%20Overview%20of%20APA%20MLA%20Chicago%20Styles.pptx) |
 | 2 | Editing for Conciseness | [View](Resources/Grammar_and_Style/Editing%20for%20Conciseness%20Brightspace.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Editing%20for%20Conciseness%20Brightspace.pptx) |
 | 3 | Grammar - Tenses (Summer 2018) | — | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Grammar%20-%20Tenses%20Summer%202018.pptx) |
 | 4 | Inclusive Language | [View](Resources/Grammar_and_Style/Inclusive-Language%20Brightspace.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Inclusive-Language-August-2022%20Brightspace.pptx) |
