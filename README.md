@@ -89,7 +89,7 @@ A structured inventory of essential support modules categorized by functional do
 | 5 | Parts of Speech | [View](Resources/Grammar_and_Style/Parts%20of%20Speech.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Parts%20of%20speech.pptx) |
 | 6 | Punctuation | [View](Resources/Grammar_and_Style/Punctuation%20Primer%20Brightspace.pdf) | — |
 | 7 | Punctuation Primer | [View](Resources/Grammar_and_Style/Punctuation%20Primer.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Punctuation%20Primer.pptx) |
-| 8 | Tenses (General) | [View](Resources/Grammar_and_Style/Tenses.pdf) | — |
+| 8 | Tenses: Past, Present, and Future | [View](Resources/Grammar_and_Style/Tenses%20-%20Past%20Present%20Future.pdf) | — |
 | 9 | Transitions Brightspace | [View](Resources/Grammar_and_Style/Transitions%20Brightspace.pdf) | — |
 | 10 | Transitions | [View](Resources/Grammar_and_Style/Transitions.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Transitions.pptx) |
 | 11 | Understanding Pronouns | [View](Resources/Grammar_and_Style/Understanding%20Pronouns.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Understanding%20Pronouns.pptx) |
