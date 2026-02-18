@@ -137,7 +137,7 @@ A structured collection of multimedia pedagogical resources categorized by speci
 
 > [!IMPORTANT]
 > **A Tribute to Mentorship**  
-> During my graduate tenure at the **University of Windsor**, I was incredibly fortunate to learn from **Jason Horn**. He is a legend in his field—a consummate professional and a remarkably gentle teacher whose impact on my scholarly voice is foundational. His ability to guide students with both intellectual rigor and kindness is something I will always carry with me as I continue my journey in the **Master of Engineering** program.
+> During my graduate tenure at the **University of Windsor**, I was incredibly fortunate to learn from **Jason Horn**. He is a legend in his field, a consummate professional and a remarkably gentle teacher whose impact on my scholarly voice is foundational. His ability to guide students with both intellectual rigor and kindness is something I will always carry with me as I continue my journey in the **Master of Engineering** program.
 
 <div align="center">
 
@@ -148,7 +148,7 @@ A structured collection of multimedia pedagogical resources categorized by speci
 
 > [!TIP]
 > **Legendary Writing Support**  
-> The tutorials below are treasures from **Jason Horn’s** extensive pedagogical archive. His teaching goes far beyond simple instruction; it is a brilliant distillation of academic rigor made accessible through patient, crisp, and unparalleled clarity. If you seek to not just meet but truly master the art of scholarly writing, his work is the absolute gold standard. I cannot recommend his channel highly enough—it is a mandatory resource for every serious student. **[Explore Jason Horn’s YouTube Archive](https://www.youtube.com/@jasonhorn901)**.
+> The tutorials below are treasures from **Jason Horn’s** extensive pedagogical archive. His teaching goes far beyond simple instruction; it is a brilliant distillation of academic rigor made accessible through patient, crisp, and unparalleled clarity. If you seek to not just meet but truly master the art of scholarly writing, his work is the absolute gold standard. I cannot recommend his channel highly enough; it is a mandatory resource for every serious student. **[Explore Jason Horn’s YouTube Archive](https://www.youtube.com/@jasonhorn901)**.
 
 ### Academic Integrity & Citation Standards
 
