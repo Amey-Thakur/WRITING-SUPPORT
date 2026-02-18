@@ -137,7 +137,7 @@ A structured collection of multimedia pedagogical resources categorized by speci
 
 > [!IMPORTANT]
 > **A Tribute to Mentorship**  
-> During my graduate tenure at the **University of Windsor**, I was incredibly fortunate to learn from **Jason Horn**. He is a legend in his field, a consummate professional and a remarkably gentle teacher whose impact on my scholarly voice is foundational. His ability to guide students with both intellectual rigor and kindness is something I will always carry with me as I continue my journey in the **Master of Engineering** program.
+> During my graduate tenure in the **Master of Engineering** program at the **University of Windsor**, I was incredibly fortunate to learn from **Jason Horn**. He is a legend in his field, a consummate professional and a remarkably gentle teacher whose impact on my scholarly voice is foundational. His ability to guide students with both intellectual rigor and kindness is an enduring lesson I will carry with me throughout my life and career.
 
 <div align="center">
 
