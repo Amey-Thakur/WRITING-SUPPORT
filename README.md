@@ -99,16 +99,17 @@ A structured inventory of essential support modules categorized by functional do
 | # | Topic | Document | PDF | PPT |
 |:-:|:---|:---:|:---:|:---:|
 | 1 | APA 6th Edition Citation Workshop | — | [View](Resources/Citation_Standards/APA%206th%20Edition%20Citation%20Workshop.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/APA%206th%20Edition%20Citation%20Workshop.pptx) |
-| 2 | APA 6 vs. 7 Quick Guide | — | [View](Resources/Citation_Standards/APA%206%20vs.%207%20quick%20guide%20(2).pdf) | — |
-| 3 | APA 7th Edition | — | [View](Resources/Citation_Standards/APA%207th%20edition.pdf) | — |
-| 4 | APA 7th Edition Cheat Sheet | [PNG](Resources/Citation_Standards/APA%207th%20Edition%20Cheat%20Sheet.png) | [View](Resources/Citation_Standards/APA%207th%20Edition%20Cheat%20Sheet.pdf) | — |
-| 5 | APA 7th Edition Essentials | — | — | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/APA%20Essentials%207th%20Ed(4)(1).pptx) |
-| 6 | APA Formatting Guide | [DOCX](Resources/Citation_Standards/APA%20Format(5).docx) | — | — |
-| 7 | APA 7th Sample Paper | [DOCX](Resources/Citation_Standards/APA%207th%20Edition%20Sample%20Student%20Paper%20Format.docx) | — | — |
-| 8 | APA 7th Sample Paper Variants | [V1](Resources/Citation_Standards/APA%207th%20Edition%20Sample%20Student%20Paper%20Format%20(1).docx) \| [V2](Resources/Citation_Standards/APA%207th%20Edition%20Sample%20Student%20Paper%20Format(1).docx) | — | — |
-| 9 | Chicago Style | [DOCX](Resources/Citation_Standards/Chicago%20Style(2).docx) | [View](Resources/Citation_Standards/Chicago%20Style.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/Chicago%20Style%20Workshop(2).pptx) |
-| 10 | IEEE Style | [DOCX](Resources/Citation_Standards/IEEE%20Template.docx) \| [DOC](Resources/Citation_Standards/IEEE%20Template%201.doc) | [View](Resources/Citation_Standards/IEEE.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/IEEE%20Computer%20Science%20Banana.pptx) |
-| 11 | MLA Style | — | [View](Resources/Citation_Standards/MLA%20Workshop%20Brightspace.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/MLA%20Workshop%20Brightspace.pptx) |
+| 2 | Quick Guide: APA 6th vs. 7th Edition Updates | — | [View](Resources/Citation_Standards/Quick%20Guide%20-%20APA%206th%20vs%207th%20Edition%20Updates.pdf) | — |
+| 3 | APA 6th vs. 7th Edition Updates | — | [View](Resources/Citation_Standards/APA%206th%20vs%207th%20Edition%20Updates.pdf) | — |
+| 4 | APA 7th Edition | — | [View](Resources/Citation_Standards/APA%207th%20edition.pdf) | — |
+| 5 | APA 7th Edition Cheat Sheet | [PNG](Resources/Citation_Standards/APA%207th%20Edition%20Cheat%20Sheet.png) | [View](Resources/Citation_Standards/APA%207th%20Edition%20Cheat%20Sheet.pdf) | — |
+| 6 | APA 7th Edition Essentials | — | — | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/APA%20Essentials%207th%20Ed(4)(1).pptx) |
+| 7 | APA Formatting Guide | [DOCX](Resources/Citation_Standards/APA%20Format(5).docx) | — | — |
+| 8 | APA 7th Sample Paper | [DOCX](Resources/Citation_Standards/APA%207th%20Edition%20Sample%20Student%20Paper%20Format.docx) | — | — |
+| 9 | APA 7th Sample Paper Variants | [V1](Resources/Citation_Standards/APA%207th%20Edition%20Sample%20Student%20Paper%20Format%20(1).docx) \| [V2](Resources/Citation_Standards/APA%207th%20Edition%20Sample%20Student%20Paper%20Format(1).docx) | — | — |
+| 10 | Chicago Style | [DOCX](Resources/Citation_Standards/Chicago%20Style(2).docx) | [View](Resources/Citation_Standards/Chicago%20Style.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/Chicago%20Style%20Workshop(2).pptx) |
+| 11 | IEEE Style | [DOCX](Resources/Citation_Standards/IEEE%20Template.docx) \| [DOC](Resources/Citation_Standards/IEEE%20Template%201.doc) | [View](Resources/Citation_Standards/IEEE.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/IEEE%20Computer%20Science%20Banana.pptx) |
+| 12 | MLA Style | — | [View](Resources/Citation_Standards/MLA%20Workshop%20Brightspace.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/MLA%20Workshop%20Brightspace.pptx) |
 
 
 ### Submission Samples
