@@ -136,11 +136,11 @@ A structured inventory of essential support modules categorized by functional do
 A structured collection of multimedia pedagogical resources categorized by specialized domain to facilitate immersive instruction and information synthesis.
 
 > [!IMPORTANT]
-> **Special Acknowledgment**
+> **Special Acknowledgment**  
 > During my graduate tenure (**M.Eng**) at the **University of Windsor**, I had the distinct honor of engaging with the sophisticated mentorship of **Jason Horn**. Beyond his command of academic discourse, he is a consummate professional whose intellectual rigor and nuanced guidance were instrumental in refining my scholarly voice. His commitment to clarity and integrity remains a foundational influence on my professional communication.
 
 > [!TIP]
-> **Pedagogical Excellence**
+> **Pedagogical Excellence**  
 > The following video modules are curated from **Jason Horn's** official pedagogical archives. They represent a high-fidelity masterclass in academic writing, designed to demystify complex standards through precise, high-impact instruction. To explore his comprehensive library of educational resources, I highly recommend visiting the **[Jason Horn YouTube Channel](https://www.youtube.com/@jasonhorn901)**.
 
 ### Academic Integrity & Citation Standards
