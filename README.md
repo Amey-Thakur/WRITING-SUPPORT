@@ -214,7 +214,9 @@ Grateful acknowledgment to the **Writing Support** staff and the **University of
 
 Grateful acknowledgment to **Jason Horn**, **Writing Support**, **University of Windsor**, for his distinguished mentorship and scholarly guidance. His thoughtful feedback and methodological precision were instrumental in strengthening the analytical depth and professional quality of my academic work. His commitment to excellence and integrity is gratefully acknowledged.
 
-The curated video tutorials featured in this repository are sourced directly from the **[Jason Horn - https://www.youtube.com/@jasonhorn901](https://www.youtube.com/@jasonhorn901)** YouTube channel. These pedagogical resources provide comprehensive instruction on academic writing, citation standards, and scholarly integrity.
+Grateful for Jason Horn's invaluable support with academic writing—highly recommend reaching out to him for expert guidance!
+
+- **Jason Horn's YouTube Channel** - https://www.youtube.com/@jasonhorn901
 
 ---
 
