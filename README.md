@@ -104,7 +104,7 @@ A structured inventory of essential support modules categorized by functional do
 | 4 | APA Citation 7th Edition | — | [View](Resources/Citation_Standards/APA%20Citation%207th%20edition.pdf) | — |
 | 5 | APA 7th Edition Cheat Sheet | [PNG](Resources/Citation_Standards/APA%207th%20Edition%20Cheat%20Sheet.png) | [View](Resources/Citation_Standards/APA%207th%20Edition%20Cheat%20Sheet.pdf) | — |
 | 6 | APA 7th Edition Essentials | — | [View](Resources/Citation_Standards/APA%20Essentials%207th%20edition.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/APA%20Essentials%207th%20edition.pptx) |
-| 7 | APA Formatting Guide | [DOCX](Resources/Citation_Standards/APA%20Format(5).docx) | — | — |
+| 7 | APA Formatting Guide | [DOCX](Resources/Citation_Standards/APA%20Format.docx) | [View](Resources/Citation_Standards/APA%20Format.pdf) | — |
 | 8 | APA 7th Sample Paper | [DOCX](Resources/Citation_Standards/APA%207th%20Edition%20Sample%20Student%20Paper%20Format.docx) | [View](Resources/Citation_Standards/APA%207th%20Edition%20Sample%20Student%20Paper%20Format.pdf) | — |
 | 9 | Chicago Style | [DOCX](Resources/Citation_Standards/Chicago%20Style(2).docx) | [View](Resources/Citation_Standards/Chicago%20Style.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/Chicago%20Style%20Workshop(2).pptx) |
 | 10 | IEEE Style | [DOCX](Resources/Citation_Standards/IEEE%20Template.docx) \| [DOC](Resources/Citation_Standards/IEEE%20Template%201.doc) | [View](Resources/Citation_Standards/IEEE.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/IEEE%20Computer%20Science%20Banana.pptx) |
