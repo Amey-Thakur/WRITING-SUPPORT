@@ -26,14 +26,10 @@
 
   <!-- Navigation Links -->
   [Overview](#overview) &nbsp;·&nbsp; [Resource Hub](#resource-hub) &nbsp;·&nbsp; [Video Tutorials](#video-tutorials) &nbsp;·&nbsp; [Usage](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
-
 <br>
-
-  **Resource Hub**: [Foundations](#writing-foundations) &nbsp;·&nbsp; [Grammar & Style](#grammar-and-style) &nbsp;·&nbsp; [Citations](#citation-standards) &nbsp;·&nbsp; [Samples](#submission-samples)
-
+  **Resource Hub**: [Writing Foundations](#writing-foundations) &nbsp;·&nbsp; [Grammar and Style](#grammar-and-style) &nbsp;·&nbsp; [Citation Standards](#citation-standards) &nbsp;·&nbsp; [Submission Samples](#submission-samples)
 <br>
-
-  **Video Tutorials**: [Integrity](#academic-integrity--citation-standards) &nbsp;·&nbsp; [Structure](#essay-structure--composition) &nbsp;·&nbsp; [Style & Punctuation](#grammar-style--punctuation)
+  **Video Tutorials**: [Academic Integrity & Citation Standards](#academic-integrity--citation-standards) &nbsp;·&nbsp; [Essay Structure & Composition](#essay-structure--composition) &nbsp;·&nbsp; [Grammar, Style & Punctuation](#grammar-style--punctuation)
 
 </div>
 
@@ -249,14 +245,10 @@ For expert guidance on academic writing, I highly recommend his educational reso
   [↑ Back to Top](#writing-support)
 
   [Overview](#overview) &nbsp;·&nbsp; [Resource Hub](#resource-hub) &nbsp;·&nbsp; [Video Tutorials](#video-tutorials) &nbsp;·&nbsp; [Usage](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
-  
 <br>
-
-  **Resource Hub**: [Foundations](#writing-foundations) &nbsp;·&nbsp; [Grammar & Style](#grammar-and-style) &nbsp;·&nbsp; [Citations](#citation-standards) &nbsp;·&nbsp; [Samples](#submission-samples)
-
+  **Resource Hub**: [Writing Foundations](#writing-foundations) &nbsp;·&nbsp; [Grammar and Style](#grammar-and-style) &nbsp;·&nbsp; [Citation Standards](#citation-standards) &nbsp;·&nbsp; [Submission Samples](#submission-samples)
 <br>
-
-  **Video Tutorials**: [Integrity](#academic-integrity--citation-standards) &nbsp;·&nbsp; [Structure](#essay-structure--composition) &nbsp;·&nbsp; [Style & Punctuation](#grammar-style--punctuation)
+  **Video Tutorials**: [Academic Integrity & Citation Standards](#academic-integrity--citation-standards) &nbsp;·&nbsp; [Essay Structure & Composition](#essay-structure--composition) &nbsp;·&nbsp; [Grammar, Style & Punctuation](#grammar-style--punctuation)
 
   <br>
 
