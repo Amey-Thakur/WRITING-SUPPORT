@@ -135,37 +135,36 @@ A structured inventory of essential support modules categorized by functional do
 
 A structured collection of multimedia pedagogical resources categorized by specialized domain to facilitate immersive instruction and information synthesis.
 
+> [!IMPORTANT]
+> **Pedagogical Excellence**: The followings video tutorials are curated from the official pedagogical archives of **Jason Horn**, representing high-impact instruction on scholarly writing and academic integrity. For the complete repository of his work, visit the official **[Jason Horn's YouTube Channel](https://www.youtube.com/@jasonhorn901)**.
+
 ### Academic Integrity & Citation Standards
 
 | # | Tutorial Resource | Domain | Description |
 |:-:|:---|:---:|:---|
-| 1 | [Academic Integrity Basics](Video%20Tutorials/Academic%20Integrity%20Citing%20and%20Referencing/Academic%20Integrity.html) | **Ethics** | Video guide on the importance of original scholarship and citation. |
-| 2 | [APA 7th Edition - In-Text Citation (Full Module)](Video%20Tutorials/Academic%20Integrity%20Citing%20and%20Referencing/APA%207th%20Edition/In-Text%20Citation/Table%20of%20Contents.html) | **APA 7th** | Comprehensive guide to APA 7th Edition in-text citation rules. |
-| 3 | [APA 7th Edition - References (Full Module)](Video%20Tutorials/Academic%20Integrity%20Citing%20and%20Referencing/APA%207th%20Edition/References/Table%20of%20Contents.html) | **APA 7th** | Detailed instruction on APA 7th Edition reference list construction. |
-| 4 | [APA 7th Edition - What's New from APA 6th](Video%20Tutorials/Academic%20Integrity%20Citing%20and%20Referencing/APA%207th%20Edition%20-%20What's%20New%20from%20APA%206th.html) | **APA 7th** | Essential updates and transitions from APA 6th to 7th Edition. |
-| 5 | [MLA 8th Edition - In-Text Citations](Video%20Tutorials/Academic%20Integrity%20Citing%20and%20Referencing/MLA%208th%20Edition/MLA%208th%20Edition%20-%20In-Text%20Citations.html) | **MLA 8th** | Core principles of MLA 8th Edition in-text documentation. |
-| 6 | [MLA 8th Edition - Works Cited Part One](Video%20Tutorials/Academic%20Integrity%20Citing%20and%20Referencing/MLA%208th%20Edition/MLA%208th%20Edition%20-%20Works%20Cited%20Part%20One.html) | **MLA 8th** | Guidance on authorship and core elements of MLA Works Cited. |
-| 7 | [MLA 8th Edition - Works Cited Part Two](Video%20Tutorials/Academic%20Integrity%20Citing%20and%20Referencing/MLA%208th%20Edition/MLA%208th%20Edition%20-%20Works%20Cited%20Part%20Two.html) | **MLA 8th** | Advanced instruction on MLA Works Cited containers and sources. |
+| 1 | [Academic Integrity & APA 7th Edition](https://youtube.com/playlist?list=PLqFb8CNjQd5ROSEFZUg-kVvqpJhpmf7rU&si=T9eXanSFAcFfB6c1) | **Integrity** | Comprehensive guide to APA 7th Edition and academic honesty. |
+| 2 | [In-Text Citations: APA Seventh Edition](https://youtube.com/playlist?list=PLqFb8CNjQd5TLXR5qCO7sMgLgs6uJWgNw&si=7OzbbP_-99zEivwM) | **APA 7th** | Focused tutorial series on mastering APA 7th in-text documentation. |
+| 3 | [Referencing: APA Seventh Edition](https://youtube.com/playlist?list=PLqFb8CNjQd5RR9SxvEuA2DQZ3kzYwCMgw&si=o_Lu4v0tBy_oDblt) | **APA 7th** | Detailed walkthrough for constructing APA 7th reference lists. |
 
 ### Essay Structure & Composition
 
 | # | Tutorial Resource | Domain | Description |
 |:-:|:---|:---:|:---|
-| 1 | [Anatomy of an Introduction](Video%20Tutorials/Essay%20Structure/The%20Anatomy%20of%20an%20Introduction.html) | **Structure** | Structural breakdown of effective academic essay introductions. |
-| 2 | [Effective Thesis Statements](Video%20Tutorials/Essay%20Structure/How%20to%20Write%20an%20Effective%20Thesis%20Statement.html) | **Logic** | Guidance on crafting strong, argumentative thesis statements. |
-| 3 | [How to Write an Engaging Hook](Video%20Tutorials/Essay%20Structure/How%20to%20Write%20an%20Engaging%20Hook.html) | **Engagement** | Strategies for capturing reader attention through scholarly hooks. |
-| 4 | [How to Build a Body Paragraph](Video%20Tutorials/Essay%20Structure/How%20to%20Build%20a%20Body%20Paragraph.html) | **Composition** | Detailed instruction on paragraph development and evidence use. |
-| 5 | [Constructing a Conclusion](Video%20Tutorials/Essay%20Structure/Constructing%20a%20Conclusion.html) | **Structure** | Final synthesis strategies for effective academic conclusions. |
-| 6 | [Top 10 Writing Tips](Video%20Tutorials/Writing%20Supports%20Top%2010%20Writing%20Tips.html) | **Synthesis** | Curated high-impact strategies for scholarly writing excellence. |
+| 1 | [Blueprint to an Essay](https://youtube.com/playlist?list=PLqFb8CNjQd5Q6XgikAJwQU_q_KYL9VMVh&si=ZOrnWlcpuk6lweQQ) | **Structure** | Foundational guide to academic essay organization and logic. |
+| 2 | [The Grammar of PowerPoint](https://youtube.com/playlist?list=PLqFb8CNjQd5Qfx-NNtL0J5MPBrYmHIPtV&si=uBSS_DpGp4Jfz3I3) | **Composition** | Five-part series on high-impact presentation design and writing. |
+| 3 | [Common Writing Issues](https://youtube.com/playlist?list=PLqFb8CNjQd5R9jrmjuMdTE-fkQpt2cgaw&si=k59TUc7wcpaTO-EJ) | **Synthesis** | Strategies for identifying and rectifying frequent scholarly writing errors. |
 
 ### Grammar, Style & Punctuation
 
 | # | Tutorial Resource | Domain | Description |
 |:-:|:---|:---:|:---|
-| 1 | [Punctuation - Full Module](Video%20Tutorials/Punctuation/Table%20of%20Contents.html) | **Grammar** | Complete workshop on scholarly punctuation standards. |
-| 2 | [Transitions - Full Module](Video%20Tutorials/Transitions/Table%20of%20Contents.html) | **Style** | Advanced instruction on logical flow and transitional devices. |
-| 3 | [Editing for Conciseness](Video%20Tutorials/Editing%20for%20Conciseness.html) | **Style** | Strategies for streamlining academic prose and enhancing clarity. |
-| 4 | [Inclusive Language](Video%20Tutorials/Inclusive%20Language.html) | **Ethics** | Principles of bias-free and scholarly inclusive communication. |
+| 1 | [Punctuation Primer](https://youtube.com/playlist?list=PLqFb8CNjQd5SSxElbKIoW3MU-6t5zeIwl&si=pSUsUL7rylP3d3it) | **Punctuation** | Introductory overview of standard scholarly punctuation rules. |
+| 2 | [Clarifying Confusing Commas](https://youtube.com/playlist?list=PLqFb8CNjQd5R42Ti9zrzYNzm9FLLyZikg&si=hAr8d7IMEhyJO3ay) | **Grammar** | Advanced instruction on comma usage and sentence clarity. |
+| 3 | [Clarifying Commas](https://youtube.com/playlist?list=PLqFb8CNjQd5QwxqOW06kj2Vocf3ZeU-nj&si=LlSN2hCzQmqU1rGi) | **Grammar** | Essential guide to correctly placing and using commas in academic prose. |
+| 4 | [Conjunctions and Their Functions](https://youtube.com/playlist?list=PLqFb8CNjQd5RHGn-7ti5N9xSl1f2pjvKn&si=8hxxEpY26RxABIkm) | **Grammar** | Deep dive into sentence connectivity and logical transitions. |
+| 5 | [Tenses: Moods, Conditions, and Modals](https://youtube.com/playlist?list=PLqFb8CNjQd5TBaqHZfDd6l7K_9-ek0_DY&si=PnaX1l6zp_Q-ekiX) | **Grammar** | Mastering verb tenses and moods for precise academic communication. |
+| 6 | [Editing for Conciseness](https://youtube.com/playlist?list=PLqFb8CNjQd5RvGD4iIwPsWD1r3-3AC0EN&si=buUEu2BufZ2ojfVZ) | **Style** | Expert techniques for eliminating wordiness and sharpening prose focus. |
+| 7 | [Words to Avoid in Academic Writing](https://youtube.com/playlist?list=PLqFb8CNjQd5T4vmZlxJ6pOILES1Flbp6-&si=5LB0J5mDThG_IYm5) | **Style** | Guidelines for maintaining scholarly tone by excluding informal vocabulary. |
 
 ---
 
