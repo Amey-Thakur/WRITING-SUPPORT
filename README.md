@@ -111,7 +111,7 @@ A structured inventory of essential support modules categorized by functional do
 | 11 | IEEE Citing and Referencing Brightspace | — | [View](Resources/Citation_Standards/IEEE%20Citing%20and%20Referencing%20Brightspace.pdf) | — |
 | 12 | IEEE Format Template | [DOCX](Resources/Citation_Standards/IEEE%20Template.docx) | [View](Resources/Citation_Standards/IEEE%20Template.pdf) | — |
 | 13 | IEEE Format Template | [DOC](Resources/Citation_Standards/IEEE%20Format%20Template.doc) | [View](Resources/Citation_Standards/IEEE%20Format%20Template.pdf) | — |
-| 14 | MLA Style | — | [View](Resources/Citation_Standards/MLA%20Workshop%20Brightspace.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/MLA%20Workshop%20Brightspace.pptx) |
+| 14 | MLA Citation Workshop | — | [View](Resources/Citation_Standards/MLA%20Citation%20Workshop.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/MLA%20Citation%20Workshop.pptx) |
 
 
 ### Submission Samples
