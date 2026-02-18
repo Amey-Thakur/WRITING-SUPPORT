@@ -210,8 +210,6 @@ This repository represents a commitment to supporting the scholarly journey of s
 
 ### Acknowledgments
 
-Grateful acknowledgment to the **Writing Support** staff and the **University of Windsor** administration for providing the foundational resources and pedagogical materials that populate this archive.
-
 Grateful acknowledgment to **Jason Horn**, **Writing Support**, **University of Windsor**, for his distinguished mentorship and scholarly guidance. His thoughtful feedback and methodological precision were instrumental in strengthening the analytical depth and professional quality of my academic work. His commitment to excellence and integrity is gratefully acknowledged.
 
 For expert guidance on academic writing, I highly recommend his educational resources:
