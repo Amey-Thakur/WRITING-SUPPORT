@@ -170,10 +170,10 @@ Multimedia pedagogical resources designed to provide deep-dive instruction on sp
 This repository is openly shared to support learning and knowledge exchange across the academic community.
 
 **For Students**  
-Use these resources as a comprehensive guide for mastering citation styles, structuring academic papers, and understanding plagiarism avoidance. The repository contains detailed templates and tutorials to facilitate independent learning.
+Use these resources as a comprehensive guide for mastering citation styles, structuring academic papers, and understanding plagiarism avoidance. All content is organized to support self-paced learning.
 
 **For Educators**  
-These materials may serve as supplementary teaching aids, workshop references, or examples of standard academic formatting. Attribution is appreciated when utilizing content for instructional purposes.
+These materials may serve as supplementary teaching aids, workshop references, or examples of standard academic formatting. Attribution is appreciated when utilizing content.
 
 **For Researchers**  
 The curated citation guides and writing foundations provide a reliable reference for maintaining high standards of scholarly communication and ethical research practices.
