@@ -74,7 +74,7 @@ A structured inventory of essential support modules categorized by functional do
 | 5 | Lit Review vs. Annotated Bibliography | [View](Resources/Writing_Foundations/Lit%20Review%20vs.%20Annotated%20Bibliography%20-%20Brightspace.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Writing_Foundations/Lit%20Review%20vs.%20Annotated%20Bibliography%20-%20Brightspace.pptx) |
 | 6 | Pre-Writing Workshop | [View](Resources/Writing_Foundations/Pre-Writing%20Workshop%20Brightspace.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Writing_Foundations/Pre-Writing%20Workshop%20Brightspace.pptx) |
 | 7 | Proposal Writing | [View](Resources/Writing_Foundations/Proposal%20Writing.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Writing_Foundations/Proposal%20Writing.pptx) |
-| 8 | Science Writing | [View](Resources/Writing_Foundations/Science%20Writing%20ACS.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Writing_Foundations/Science%20Writing.pptx) |
+| 8 | Science Writing | [View](Resources/Writing_Foundations/Science%20Writing.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Writing_Foundations/Science%20Writing.pptx) |
 | 9 | Sentence Structure Workshop | [View](Resources/Writing_Foundations/Sentence%20Structure%20Workshop%20Brightspace.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Writing_Foundations/Sentence%20Structure%20Workshop%20Brightspace.pptx) |
 
 ### Grammar and Style
