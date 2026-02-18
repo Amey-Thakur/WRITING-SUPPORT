@@ -87,7 +87,7 @@ A structured inventory of essential support modules categorized by functional do
 | 3 | Grammar: Tenses - Improving Verb Tense Usage in Academic Writing | [View](Resources/Grammar_and_Style/Grammar%20-%20Tenses%20-%20Improving%20Verb%20Tense%20Usage.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Grammar%20-%20Tenses%20-%20Improving%20Verb%20Tense%20Usage.pptx) |
 | 4 | Inclusive Language | [View](Resources/Grammar_and_Style/Inclusive%20Language.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Inclusive%20Language.pptx) |
 | 5 | Parts of Speech | [View](Resources/Grammar_and_Style/Parts%20of%20Speech.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Parts%20of%20speech.pptx) |
-| 6 | Punctuation Primer | [View](Resources/Grammar_and_Style/Punctuation%20Primer%20Brightspace.pdf) | — |
+| 6 | Punctuation | [View](Resources/Grammar_and_Style/Punctuation%20Primer%20Brightspace.pdf) | — |
 | 7 | Punctuation Primer | [View](Resources/Grammar_and_Style/Punctuation%20Primer.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/Punctuation%20Primer.pptx) |
 | 8 | Tenses (General) | [View](Resources/Grammar_and_Style/Tenses.pdf) | — |
 | 9 | Transitions | [View](Resources/Grammar_and_Style/Transitions.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Grammar_and_Style/TRANSITIONS.pptx) |
