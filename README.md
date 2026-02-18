@@ -122,8 +122,8 @@ A structured inventory of essential support modules categorized by functional do
 | 1 | Graduate Studies Submission Sample | — | — | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Submission_Samples/Graduate%20Studies%20Submission%20Sample%20Paper.docx) |
 | 2 | MLA 8th Edition Sample Paper | — | — | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Submission_Samples/MLA%208th%20Edition%20Sample%20Paper.docx) |
 | 3 | Examples of Transitions | [View](Resources/Submission_Samples/Essay_Writing_Help/Examples_of_Transitions.pdf) | — | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Submission_Samples/Essay_Writing_Help/Examples_of_Transitions.doc) |
-| 4 | Sample Essay (No Corrections) | [View](Resources/Submission_Samples/Essay_Writing_Help/Sample_Essay_w_Common_Errors__No_Corrections.pdf) | — | — |
-| 5 | Sample Essay (With Corrections) | [View](Resources/Submission_Samples/Essay_Writing_Help/Sample_Essay_w_Corrections.pdf) | — | — |
+| 4 | Sample Essay with Common Errors - No Corrections | [View](Resources/Submission_Samples/Essay_Writing_Help/Sample%20Essay%20with%20Common%20Errors%20-%20No%20Corrections.pdf) | — | — |
+| 5 | Sample Essay with Corrections | [View](Resources/Submission_Samples/Essay_Writing_Help/Sample%20Essay%20with%20Corrections.pdf) | — | — |
 
 ---
 
