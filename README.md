@@ -109,10 +109,9 @@ A structured inventory of essential support modules categorized by functional do
 | 9 | An Introduction to Citing and Referencing: Chicago Manual Style | [View](Resources/Citation_Standards/An%20Introduction%20to%20Citing%20and%20Referencing%20-%20Chicago%20Manual%20Style.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/An%20Introduction%20to%20Citing%20and%20Referencing%20-%20Chicago%20Manual%20Style.pptx) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/An%20Introduction%20to%20Citing%20and%20Referencing%20-%20Chicago%20Manual%20Style.docx) |
 | 10 | IEEE Citing and Referencing | [View](Resources/Citation_Standards/IEEE%20Citing%20and%20Referencing.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/IEEE%20Citing%20and%20Referencing.pptx) | — |
 | 11 | IEEE Citing and Referencing Brightspace | [View](Resources/Citation_Standards/IEEE%20Citing%20and%20Referencing%20Brightspace.pdf) | — | — |
-| 12 | MLA Citation Workshop | [View](Resources/Citation_Standards/MLA%20Citation%20Workshop.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/MLA%20Citation%20Workshop.pptx) | — |
-| 13 | IEEE Format Template | [View](Resources/Citation_Standards/IEEE%20Template.pdf) | — | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/IEEE%20Template.docx) |
-| 14 | IEEE Format Template | [View](Resources/Citation_Standards/IEEE%20Format%20Template.pdf) | — | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/IEEE%20Format%20Template.doc) |
- — |
+| 12 | IEEE Format Template | [View](Resources/Citation_Standards/IEEE%20Template.pdf) | — | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/IEEE%20Template.docx) |
+| 13 | IEEE Format Template | [View](Resources/Citation_Standards/IEEE%20Format%20Template.pdf) | — | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/IEEE%20Format%20Template.doc) |
+| 14 | MLA Citation Workshop | [View](Resources/Citation_Standards/MLA%20Citation%20Workshop.pdf) | [Download](https://github.com/Amey-Thakur/WRITING-SUPPORT/raw/main/Resources/Citation_Standards/MLA%20Citation%20Workshop.pptx) | — |
 
 
 
