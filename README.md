@@ -231,7 +231,7 @@ This repository represents a commitment to supporting the scholarly journey of s
 
 ### Acknowledgments
 
-Grateful acknowledgment to **Jason Horn**, **Writing Support**, **University of Windsor**, for his distinguished mentorship and scholarly guidance. His thoughtful feedback and methodological precision were instrumental in strengthening the analytical depth and professional quality of my academic work. His commitment to excellence and integrity is gratefully acknowledged.
+Grateful acknowledgment to **Jason Horn**, Writing Support Desk, University of Windsor, for his distinguished mentorship and scholarly guidance. His analytical feedback and methodological rigor were instrumental in refining the intellectual depth and professional caliber of my academic work. His dedication stands as a testament to the pursuit of academic excellence and professional integrity.
 
 For expert guidance on academic writing, I highly recommend his educational resources:
 - [x] **Jason Horn's YouTube Channel** - https://www.youtube.com/@jasonhorn901
