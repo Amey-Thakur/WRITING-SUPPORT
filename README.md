@@ -57,7 +57,7 @@ This repository represents a curated collection of workshop slides, pedagogical 
 - **Scholarly Integrity**: To provide a dedicated portal for information on plagiarism avoidance and ethical research.
 
 > [!NOTE]
-> All materials were compiled and organized to serve as a supportive resource hub for the academic community during the 2023 academic year.
+> All materials were compiled and organized to serve as a supportive resource hub for the academic community during the **2023-2024** academic year.
 
 ---
 
