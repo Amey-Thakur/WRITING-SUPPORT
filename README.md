@@ -271,5 +271,3 @@ For expert guidance on academic writing, I highly recommend his educational reso
   *Semester-wise curriculum, laboratories, projects, and academic notes.*
 
 </div>
-
-
