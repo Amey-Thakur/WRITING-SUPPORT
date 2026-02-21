@@ -51,10 +51,10 @@ This repository represents a curated collection of workshop slides, pedagogical 
 
 **Why this repository exists:**
 
-- **Resource Accessibility**: To maintain organized access to essential writing, composition, and citation resources
-- **Student Integration**: To support the successful academic and professional integration of students
-- **Knowledge Preservation**: To archive critical pedagogical tutorials and academic integrity directives
-- **Scholarly Integrity**: To provide a dedicated portal for information on plagiarism avoidance and ethical research
+- **Resource Accessibility**: To maintain organized access to essential writing, composition, and citation resources.
+- **Student Integration**: To support the successful academic and professional integration of students.
+- **Knowledge Preservation**: To archive critical pedagogical tutorials and academic integrity directives.
+- **Scholarly Integrity**: To provide a dedicated portal for information on plagiarism avoidance and ethical research.
 
 > [!NOTE]
 > All materials were compiled and organized to serve as a supportive resource hub for the academic community during the 2023 academic year.
@@ -266,8 +266,8 @@ For expert guidance on academic writing, I highly recommend his educational reso
 
   ### 🎓 [MEng Computer Engineering Repository](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING)
 
-  **Computer Engineering (M.Eng) - University of Windsor**
+  **Computer Engineering (M.Eng.) - University of Windsor**
 
-  *An archival record of **graduate-level research** and **advanced engineering coursework**.*
+  *Semester-wise curriculum, laboratories, projects, and academic notes.*
 
 </div>
