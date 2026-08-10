@@ -16,8 +16,8 @@
   [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
   [![University](https://img.shields.io/badge/University-Windsor-005596.svg)](https://www.uwindsor.ca)
   [![MEng Computer Engineering](https://img.shields.io/badge/MEng-Computer%20Engineering-FFCE00.svg)](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING)
-  [![Support](https://img.shields.io/badge/Support-Scholarly%20Writing-brightgreen.svg)](https://www.uwindsor.ca/success/writingsupport)
-  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
+  [![Support](https://img.shields.io/badge/Support-Scholarly%20Writing-005596.svg)](https://www.uwindsor.ca/success/writingsupport)
+  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-0969DA.svg)](https://github.com/Amey-Thakur)
 
   <!-- Short Description -->
   **A comprehensive archival repository documenting essential resources, video tutorials, and citation guides curated to support scholarly excellence and academic integrity at the University of Windsor.**
@@ -271,3 +271,4 @@ For expert guidance on academic writing, I highly recommend his educational reso
   *Semester-wise curriculum, laboratories, projects, and academic notes.*
 
 </div>
+
