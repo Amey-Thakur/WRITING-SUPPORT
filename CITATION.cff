@@ -8,3 +8,7 @@ title: "WRITING-SUPPORT"
 version: 1.0.0
 date-released: 2023-01-01
 url: "https://github.com/Amey-Thakur/WRITING-SUPPORT"
+identifiers:
+  - type: other
+    value: "2023-08-03"
+    description: "Date this repository was created on GitHub."

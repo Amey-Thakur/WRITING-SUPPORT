@@ -1,0 +1,31 @@
+# Writing Support
+
+> Writing Support Desk (WSD) – University of Windsor | Academic writing,
+> citation standards (APA, MLA, IEEE, Chicago), and academic integrity
+> resources
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Institution: University of Windsor
+Programme: M.Eng Computer Engineering
+Licence: CC BY 4.0, attribution required
+Repository created: 3 August 2023
+Work dated: 1 January 2023
+
+## What is in this repository
+
+- Resources, 73 files
+- Video Tutorials, 42 files
+
+## Subject terms
+
+academic-integrity, academic-writing, apa-7th-edition, apa-citation,
+canada, citation-styles, computer-engineering, ieee, meng, meng-ece,
+university-of-windsor, uwindsor, writing-resource, writing-support,
+writing-tools, writing-tutorials
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/WRITING-SUPPORT
+- Degree index, every subject and project: https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/
